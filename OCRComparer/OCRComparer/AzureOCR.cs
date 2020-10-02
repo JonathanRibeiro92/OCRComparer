@@ -6,29 +6,45 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using System.Web;
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
+using System.Threading;
+using System.Runtime.CompilerServices;
 
 namespace OCRComparer
 {
-    public class AzureOCR
+    public static class AzureOCR
     {
         // Add your Computer Vision subscription key and endpoint to your environment variables.
         static string subscriptionKey = Environment.GetEnvironmentVariable("COMPUTER_VISION_SUBSCRIPTION_KEY");
+        
 
         // An endpoint should have a format like "https://westus.api.cognitive.microsoft.com"
         static string endpoint = Environment.GetEnvironmentVariable("COMPUTER_VISION_ENDPOINT");
 
         // the Batch Read method endpoint
-        static string uriBase = endpoint + "/vision/v3.0/read/analyze";
+        static string uriBase = endpoint + "/vision/v3.1/ocr";
+        //static string uriBase = "https://brazilsouth.api.cognitive.microsoft.com/vision/v3.1/ocr";
 
-        // Add a local image with text here (png or jpg is OK)
-        static string imageFilePath = @"my-image.png";
-
+        static ComputerVisionClient client = Authenticate(endpoint, subscriptionKey);
+        /*
+         * AUTHENTICATE
+         * Creates a Computer Vision client used by each example.
+         */
+        public static ComputerVisionClient Authenticate(string endpoint, string key)
+        {
+            ComputerVisionClient client =
+              new ComputerVisionClient(new ApiKeyServiceClientCredentials(key))
+              { Endpoint = endpoint };
+            return client;
+        }
+        
         /// <summary>
-        /// Gets the text from the specified image file by using
+        /// Gets the text visible in the specified image file by using
         /// the Computer Vision REST API.
         /// </summary>
-        /// <param name="imageFilePath">The image file with text.</param>
-        static async Task ReadText(string imageFilePath)
+        /// <param name="imageFilePath">The image file with printed text.</param>
+        public static async Task MakeOCRRequest(string imageFilePath)
         {
             try
             {
@@ -38,23 +54,23 @@ namespace OCRComparer
                 client.DefaultRequestHeaders.Add(
                     "Ocp-Apim-Subscription-Key", subscriptionKey);
 
-                string url = uriBase;
+                // Request parameters. 
+                // The language parameter doesn't specify a language, so the 
+                // method detects it automatically.
+                // The detectOrientation parameter is set to true, so the method detects and
+                // and corrects text orientation before detecting text.
+                string requestParameters = "language=unk&detectOrientation=true";
+
+                // Assemble the URI for the REST API method.
+                string uri = uriBase + "?" + requestParameters;
 
                 HttpResponseMessage response;
 
-                // Two REST API methods are required to extract text.
-                // One method to submit the image for processing, the other method
-                // to retrieve the text found in the image.
-
-                // operationLocation stores the URI of the second REST API method,
-                // returned by the first REST API method.
-                string operationLocation;
-
-                // Reads the contents of the specified local image
+                // Read the contents of the specified local image
                 // into a byte array.
-                byte[] byteData = GetImageAsByteArray(imageFilePath);
+                byte[] byteData = Util.GetImageAsByteArray(imageFilePath);
 
-                // Adds the byte array as an octet stream to the request body.
+                // Add the byte array as an octet stream to the request body.
                 using (ByteArrayContent content = new ByteArrayContent(byteData))
                 {
                     // This example uses the "application/octet-stream" content type.
@@ -63,52 +79,12 @@ namespace OCRComparer
                     content.Headers.ContentType =
                         new MediaTypeHeaderValue("application/octet-stream");
 
-                    // The first REST API method, Batch Read, starts
-                    // the async process to analyze the written text in the image.
-                    response = await client.PostAsync(url, content);
+                    // Asynchronously call the REST API method.
+                    response = await client.PostAsync(uri, content);
                 }
 
-                // The response header for the Batch Read method contains the URI
-                // of the second method, Read Operation Result, which
-                // returns the results of the process in the response body.
-                // The Batch Read operation does not return anything in the response body.
-                if (response.IsSuccessStatusCode)
-                    operationLocation =
-                        response.Headers.GetValues("Operation-Location").FirstOrDefault();
-                else
-                {
-                    // Display the JSON error data.
-                    string errorString = await response.Content.ReadAsStringAsync();
-                    Console.WriteLine("\n\nResponse:\n{0}\n",
-                        JToken.Parse(errorString).ToString());
-                    return;
-                }
-
-                // If the first REST API method completes successfully, the second 
-                // REST API method retrieves the text written in the image.
-                //
-                // Note: The response may not be immediately available. Text
-                // recognition is an asynchronous operation that can take a variable
-                // amount of time depending on the length of the text.
-                // You may need to wait or retry this operation.
-                //
-                // This example checks once per second for ten seconds.
-                string contentString;
-                int i = 0;
-                do
-                {
-                    System.Threading.Thread.Sleep(1000);
-                    response = await client.GetAsync(operationLocation);
-                    contentString = await response.Content.ReadAsStringAsync();
-                    ++i;
-                }
-                while (i < 60 && contentString.IndexOf("\"status\":\"succeeded\"") == -1);
-
-                if (i == 60 && contentString.IndexOf("\"status\":\"succeeded\"") == -1)
-                {
-                    Console.WriteLine("\nTimeout error.\n");
-                    return;
-                }
+                // Asynchronously get the JSON response.
+                string contentString = await response.Content.ReadAsStringAsync();
 
                 // Display the JSON response.
                 Console.WriteLine("\nResponse:\n\n{0}\n",
@@ -120,21 +96,53 @@ namespace OCRComparer
             }
         }
 
-        /// <summary>
-        /// Returns the contents of the specified file as a byte array.
-        /// </summary>
-        /// <param name="imageFilePath">The image file to read.</param>
-        /// <returns>The byte array of the image data.</returns>
-        static byte[] GetImageAsByteArray(string imageFilePath)
+        
+
+        public static async Task ReadFileLocal(string localFile)
         {
-            // Open a read-only file stream for the specified file.
-            using (FileStream fileStream =
-                new FileStream(imageFilePath, FileMode.Open, FileAccess.Read))
+            Console.WriteLine("----------------------------------------------------------");
+            Console.WriteLine("READ FILE FROM LOCAL");
+            Console.WriteLine();
+
+            // Read text from URL
+            var textHeaders = await client.ReadInStreamAsync(File.OpenRead(localFile), language: "en");
+            // After the request, get the operation location (operation ID)
+            string operationLocation = textHeaders.OperationLocation;
+            Thread.Sleep(2000);
+            // </snippet_extract_call>
+
+            // <snippet_extract_response>
+            // Retrieve the URI where the recognized text will be stored from the Operation-Location header.
+            // We only need the ID and not the full URL
+            const int numberOfCharsInOperationId = 36;
+            string operationId = operationLocation.Substring(operationLocation.Length - numberOfCharsInOperationId);
+
+            // Extract the text
+            ReadOperationResult results;
+            Console.WriteLine($"Reading text from local file {Path.GetFileName(localFile)}...");
+            Console.WriteLine();
+            do
             {
-                // Read the file's contents into a byte array.
-                BinaryReader binaryReader = new BinaryReader(fileStream);
-                return binaryReader.ReadBytes((int)fileStream.Length);
+                results = await client.GetReadResultAsync(Guid.Parse(operationId));
             }
+            while ((results.Status == OperationStatusCodes.Running ||
+                results.Status == OperationStatusCodes.NotStarted));
+            // </snippet_extract_response>
+
+            // <snippet_extract_display>
+            // Display the found text.
+            Console.WriteLine();
+            var textUrlFileResults = results.AnalyzeResult.ReadResults;
+            foreach (ReadResult page in textUrlFileResults)
+            {
+                foreach (Line line in page.Lines)
+                {
+                    Console.WriteLine(line.Text);
+                }
+            }
+            Console.WriteLine();
         }
+
     }
+
 }
