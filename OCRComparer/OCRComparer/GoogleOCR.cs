@@ -8,7 +8,7 @@ namespace OCRComparer
 {
     public static class GoogleOCR
     {
-        public static object DetectText(string imageFilePath)
+        public static string DetectText(string imageFilePath)
         {
             string credentialsPath = Environment.GetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS");
             var image = Image.FromFile(imageFilePath);
@@ -22,7 +22,7 @@ namespace OCRComparer
 
             string contentString = response.ToString();
 
-            Console.WriteLine(JToken.Parse(contentString).ToString());
+            return JToken.Parse(contentString).ToString();
             
 
             //foreach (var annotation in response)
@@ -30,7 +30,6 @@ namespace OCRComparer
             //    if (annotation.Description != null)
             //        Console.WriteLine(annotation.Description);
             //}
-            return 0;
         }
     }
 }

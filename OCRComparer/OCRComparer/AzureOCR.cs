@@ -44,7 +44,7 @@ namespace OCRComparer
         /// the Computer Vision REST API.
         /// </summary>
         /// <param name="imageFilePath">The image file with printed text.</param>
-        public static async Task MakeOCRRequest(string imageFilePath)
+        public static async Task<string> MakeOCRRequest(string imageFilePath)
         {
             try
             {
@@ -87,12 +87,12 @@ namespace OCRComparer
                 string contentString = await response.Content.ReadAsStringAsync();
 
                 // Display the JSON response.
-                Console.WriteLine("\nResponse:\n\n{0}\n",
-                    JToken.Parse(contentString).ToString());
+                return JToken.Parse(contentString).ToString();
             }
             catch (Exception e)
             {
                 Console.WriteLine("\n" + e.Message);
+                return "erro";
             }
         }
 

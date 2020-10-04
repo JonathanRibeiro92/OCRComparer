@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Amazon.Rekognition;
 using Amazon.Rekognition.Model;
-
+using Newtonsoft.Json.Linq;
 
 namespace OCRComparer
 {
@@ -20,7 +20,7 @@ namespace OCRComparer
 
 
 
-        public static async Task MakeOCRRequest(string imageFilePath)
+        public static async Task<string> MakeOCRRequest(string imageFilePath)
         {
             try
             {
@@ -34,15 +34,18 @@ namespace OCRComparer
                 };
 
                 DetectTextResponse detectTextResponse = await client.DetectTextAsync(detectTextRequest);
-                Console.WriteLine("Detected lines and words for " + imageFilePath);
-                foreach (TextDetection text in detectTextResponse.TextDetections)
-                {
-                    Console.WriteLine("Detected: " + text.DetectedText);
-                    Console.WriteLine("Confidence: " + text.Confidence);
-                    Console.WriteLine("Id : " + text.Id);
-                    Console.WriteLine("Parent Id: " + text.ParentId);
-                    Console.WriteLine("Type: " + text.Type);
-                }
+
+                return detectTextResponse.ToString();
+
+                //Console.WriteLine("Detected lines and words for " + imageFilePath);
+                //foreach (TextDetection text in detectTextResponse.TextDetections)
+                //{
+                //    Console.WriteLine("Detected: " + text.DetectedText);
+                //    Console.WriteLine("Confidence: " + text.Confidence);
+                //    Console.WriteLine("Id : " + text.Id);
+                //    Console.WriteLine("Parent Id: " + text.ParentId);
+                //    Console.WriteLine("Type: " + text.Type);
+                //}
 
 
             }
