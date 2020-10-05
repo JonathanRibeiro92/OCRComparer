@@ -1,0 +1,25 @@
+{
+  "language": "ja",
+  "textAngle": -0.02617993877991427,
+  "orientation": "Right",
+  "regions": [
+    {
+      "boundingBox": "375,1854,338,202",
+      "lines": [
+        {
+          "boundingBox": "375,1854,338,202",
+          "words": [
+            {
+              "boundingBox": "375,1854,160,185",
+              "text": "匚"
+            },
+            {
+              "boundingBox": "550,1863,163,193",
+              "text": "コ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

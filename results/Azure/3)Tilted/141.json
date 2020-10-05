@@ -1,0 +1,51 @@
+{
+  "language": "en",
+  "textAngle": -0.2059488517353302,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "843,247,1358,1144",
+      "lines": [
+        {
+          "boundingBox": "843,247,701,191",
+          "words": [
+            {
+              "boundingBox": "843,247,701,191",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2048,1205,153,65",
+          "words": [
+            {
+              "boundingBox": "2048,1205,153,65",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1507,1314,323,77",
+          "words": [
+            {
+              "boundingBox": "1507,1323,161,68",
+              "text": "TAM"
+            },
+            {
+              "boundingBox": "1673,1321,46,52",
+              "text": "p"
+            },
+            {
+              "boundingBox": "1727,1317,45,44",
+              "text": "g"
+            },
+            {
+              "boundingBox": "1780,1314,50,37",
+              "text": "D"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

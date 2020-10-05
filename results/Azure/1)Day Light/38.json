@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "textAngle": -0.17802358370342095,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "296,0,1192,1016",
+      "lines": [
+        {
+          "boundingBox": "520,0,968,304",
+          "words": [
+            {
+              "boundingBox": "520,0,968,304",
+              "text": "ven"
+            }
+          ]
+        },
+        {
+          "boundingBox": "296,600,824,416",
+          "words": [
+            {
+              "boundingBox": "296,600,824,416",
+              "text": "duu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

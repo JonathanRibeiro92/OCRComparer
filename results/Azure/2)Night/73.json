@@ -1,0 +1,38 @@
+{
+  "language": "ru",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "456,544,1912,448",
+      "lines": [
+        {
+          "boundingBox": "456,544,1496,448",
+          "words": [
+            {
+              "boundingBox": "456,544,512,448",
+              "text": "ДР"
+            },
+            {
+              "boundingBox": "1016,568,936,424",
+              "text": "ВЗ2Б"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1976,608,392,176",
+          "words": [
+            {
+              "boundingBox": "1976,608,184,168",
+              "text": "кум"
+            },
+            {
+              "boundingBox": "2264,608,104,176",
+              "text": "ю"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

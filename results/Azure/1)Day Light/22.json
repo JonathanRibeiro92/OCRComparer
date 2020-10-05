@@ -1,0 +1,67 @@
+{
+  "language": "es",
+  "textAngle": -0.09250245035569885,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "0,160,2519,664",
+      "lines": [
+        {
+          "boundingBox": "0,160,2519,118",
+          "words": [
+            {
+              "boundingBox": "0,189,377,89",
+              "text": ">HASE"
+            },
+            {
+              "boundingBox": "424,191,51,82",
+              "text": "2"
+            },
+            {
+              "boundingBox": "517,186,292,85",
+              "text": "WIRE"
+            },
+            {
+              "boundingBox": "849,190,144,76",
+              "text": "AC"
+            },
+            {
+              "boundingBox": "1039,185,347,82",
+              "text": "STATIC"
+            },
+            {
+              "boundingBox": "1425,184,546,79",
+              "text": "WATTHOUR"
+            },
+            {
+              "boundingBox": "2006,183,306,75",
+              "text": "METER"
+            },
+            {
+              "boundingBox": "2385,160,134,99",
+              "text": "Efv"
+            }
+          ]
+        },
+        {
+          "boundingBox": "0,373,170,81",
+          "words": [
+            {
+              "boundingBox": "0,373,170,81",
+              "text": "tov"
+            }
+          ]
+        },
+        {
+          "boundingBox": "11,743,198,81",
+          "words": [
+            {
+              "boundingBox": "11,743,198,81",
+              "text": "OHz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "48,0,1854,1396",
+      "lines": [
+        {
+          "boundingBox": "648,0,584,224",
+          "words": [
+            {
+              "boundingBox": "648,0,584,224",
+              "text": "08/13"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1057,308,650,186",
+          "words": [
+            {
+              "boundingBox": "1057,308,650,186",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "48,512,288,216",
+          "words": [
+            {
+              "boundingBox": "48,512,288,216",
+              "text": "33"
+            }
+          ]
+        },
+        {
+          "boundingBox": "601,937,702,169",
+          "words": [
+            {
+              "boundingBox": "601,937,702,169",
+              "text": "0CUMBP"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1614,1305,288,91",
+          "words": [
+            {
+              "boundingBox": "1614,1305,288,91",
+              "text": "TAMPER"
+            }
+          ]
+        },
+        {
+          "boundingBox": "223,1313,202,72",
+          "words": [
+            {
+              "boundingBox": "223,1313,202,72",
+              "text": "1200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2034,870,526,396",
+      "lines": [
+        {
+          "boundingBox": "2034,870,248,185",
+          "words": [
+            {
+              "boundingBox": "2034,870,248,185",
+              "text": "Fwh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2447,909,113,61",
+          "words": [
+            {
+              "boundingBox": "2447,909,113,61",
+              "text": "kve"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2102,1206,135,60",
+          "words": [
+            {
+              "boundingBox": "2102,1206,135,60",
+              "text": "1200"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

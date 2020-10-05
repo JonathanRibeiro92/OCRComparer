@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "textAngle": -0.23212879051524515,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "0,72,1840,320",
+      "lines": [
+        {
+          "boundingBox": "0,72,1840,320",
+          "words": [
+            {
+              "boundingBox": "0,72,1840,320",
+              "text": "—venus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

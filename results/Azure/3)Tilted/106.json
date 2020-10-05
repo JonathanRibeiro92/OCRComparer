@@ -1,0 +1,46 @@
+{
+  "language": "ar",
+  "textAngle": -0.17976891295541525,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "343,414,1655,353",
+      "lines": [
+        {
+          "boundingBox": "371,414,1627,188",
+          "words": [
+            {
+              "boundingBox": "371,445,134,144",
+              "text": "و."
+            },
+            {
+              "boundingBox": "709,417,368,184",
+              "text": "](Z—("
+            },
+            {
+              "boundingBox": "1139,416,157,186",
+              "text": "C"
+            },
+            {
+              "boundingBox": "1359,414,639,188",
+              "text": "_—n—jj—j("
+            }
+          ]
+        },
+        {
+          "boundingBox": "343,596,1652,171",
+          "words": [
+            {
+              "boundingBox": "343,596,959,171",
+              "text": "الالا٧لا"
+            },
+            {
+              "boundingBox": "1312,596,683,171",
+              "text": "لالالا"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

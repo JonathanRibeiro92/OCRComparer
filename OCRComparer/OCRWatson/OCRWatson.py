@@ -3,12 +3,12 @@ from watson_developer_cloud import VisualRecognitionV3 as vr
 import os
 import json
 
-API_KEY = os.environ.get('API_PASSWORD')
+API_KEY = os.environ.get('VISUAL_RECOGNITION_APIKEY')
 
 
 
-instance = vr(api_key='paste your api _key here', version='2020-10-03')
-pathRawImages = 'E:\TCC\YUVA EB DATASET-20200928T152820Z-001\YUVA EB DATASET\RAW IMAGES'
+instance = vr(api_key=API_KEY, version='2020-10-03')
+pathRawImages = 'E:\\TCC\\YUVA EB DATASET-20200928T152820Z-001\\YUVA EB DATASET\\RAW IMAGES'
 
 for dirname in os.listdir('.'):
     for filename in os.listdir(dirname):

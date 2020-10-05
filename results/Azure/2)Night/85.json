@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "704,520,1168,376",
+      "lines": [
+        {
+          "boundingBox": "704,520,1168,376",
+          "words": [
+            {
+              "boundingBox": "704,520,1168,376",
+              "text": "ULh?C_"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

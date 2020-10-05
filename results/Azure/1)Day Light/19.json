@@ -1,0 +1,66 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "176,225,2121,247",
+      "lines": [
+        {
+          "boundingBox": "416,225,1649,114",
+          "words": [
+            {
+              "boundingBox": "416,257,62,43",
+              "text": "="
+            },
+            {
+              "boundingBox": "511,285,20,20",
+              "text": "."
+            },
+            {
+              "boundingBox": "1201,225,864,114",
+              "text": "\"TANGEDCO\""
+            }
+          ]
+        },
+        {
+          "boundingBox": "176,359,2121,113",
+          "words": [
+            {
+              "boundingBox": "176,374,167,77",
+              "text": "ace"
+            },
+            {
+              "boundingBox": "449,359,65,82",
+              "text": "P"
+            },
+            {
+              "boundingBox": "533,365,96,91",
+              "text": "h,"
+            },
+            {
+              "boundingBox": "679,365,52,82",
+              "text": "2"
+            },
+            {
+              "boundingBox": "757,362,261,93",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "1071,372,314,92",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "1429,379,524,87",
+              "text": "Watthour"
+            },
+            {
+              "boundingBox": "1999,387,298,85",
+              "text": "Metor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

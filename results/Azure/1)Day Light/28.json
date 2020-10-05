@@ -1,0 +1,62 @@
+{
+  "language": "en",
+  "textAngle": 0.02967059728390418,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "19,802,1671,439",
+      "lines": [
+        {
+          "boundingBox": "19,802,822,166",
+          "words": [
+            {
+              "boundingBox": "19,802,822,166",
+              "text": "toooCUM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1388,1175,302,66",
+          "words": [
+            {
+              "boundingBox": "1388,1175,302,66",
+              "text": "TAMPER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1812,776,611,459",
+      "lines": [
+        {
+          "boundingBox": "2241,776,182,61",
+          "words": [
+            {
+              "boundingBox": "2241,776,182,61",
+              "text": "kvarh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1896,1082,143,59",
+          "words": [
+            {
+              "boundingBox": "1896,1082,143,59",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1812,1162,293,73",
+          "words": [
+            {
+              "boundingBox": "1812,1162,293,73",
+              "text": "Imp/kvarh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

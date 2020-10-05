@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "textAngle": -0.11868238913561374,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "1538,553,329,202",
+      "lines": [
+        {
+          "boundingBox": "1538,553,329,202",
+          "words": [
+            {
+              "boundingBox": "1538,553,329,202",
+              "text": "wno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

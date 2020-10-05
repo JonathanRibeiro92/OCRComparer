@@ -1,0 +1,38 @@
+{
+  "language": "pt",
+  "textAngle": -0.336848545634905,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "234,515,1966,549",
+      "lines": [
+        {
+          "boundingBox": "234,515,1137,191",
+          "words": [
+            {
+              "boundingBox": "234,555,57,151",
+              "text": "q"
+            },
+            {
+              "boundingBox": "730,515,641,142",
+              "text": "wnooeo"
+            }
+          ]
+        },
+        {
+          "boundingBox": "560,712,1640,352",
+          "words": [
+            {
+              "boundingBox": "560,712,960,352",
+              "text": "PIBLILII"
+            },
+            {
+              "boundingBox": "1728,880,472,184",
+              "text": "uu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

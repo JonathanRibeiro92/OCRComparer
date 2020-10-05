@@ -1,0 +1,38 @@
+{
+  "language": "fi",
+  "textAngle": 0.04363323129985884,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "47,38,1875,955",
+      "lines": [
+        {
+          "boundingBox": "47,38,1571,378",
+          "words": [
+            {
+              "boundingBox": "47,38,1571,378",
+              "text": "zG•éntÉ"
+            }
+          ]
+        },
+        {
+          "boundingBox": "916,815,1006,178",
+          "words": [
+            {
+              "boundingBox": "916,815,622,174",
+              "text": "oeocuÆ•"
+            },
+            {
+              "boundingBox": "1614,852,173,139",
+              "text": "kW"
+            },
+            {
+              "boundingBox": "1868,858,54,135",
+              "text": "h"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

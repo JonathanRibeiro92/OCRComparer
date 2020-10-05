@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 
 namespace OCRComparer
 {
-    public static class AmazonOCR
+    public static class AwsOCR
     {
         static string stringAccessKeyId = Environment.GetEnvironmentVariable("STRING_ACCESS_KEY_ID");
         static string stringSecretAccessKey = Environment.GetEnvironmentVariable("STRING_SECRET_ACCESS_KEY");
@@ -35,7 +35,9 @@ namespace OCRComparer
 
                 DetectTextResponse detectTextResponse = await client.DetectTextAsync(detectTextRequest);
 
-                return detectTextResponse.ToString();
+                string json = System.Text.Json.JsonSerializer.Serialize(detectTextResponse.TextDetections);
+
+                return json;
 
                 //Console.WriteLine("Detected lines and words for " + imageFilePath);
                 //foreach (TextDetection text in detectTextResponse.TextDetections)
@@ -51,8 +53,7 @@ namespace OCRComparer
             }
             catch (Exception)
             {
-
-                throw;
+                return "error";
             }
         }
     }

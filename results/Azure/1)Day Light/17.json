@@ -1,0 +1,57 @@
+{
+  "language": "ar",
+  "textAngle": -0.024434609527920023,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "50,132,2510,883",
+      "lines": [
+        {
+          "boundingBox": "926,132,682,185",
+          "words": [
+            {
+              "boundingBox": "926,132,682,185",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1128,352,1432,656",
+          "words": [
+            {
+              "boundingBox": "1128,352,1432,656",
+              "text": "وو"
+            }
+          ]
+        },
+        {
+          "boundingBox": "128,416,184,208",
+          "words": [
+            {
+              "boundingBox": "128,416,184,208",
+              "text": "8{"
+            }
+          ]
+        },
+        {
+          "boundingBox": "50,821,251,194",
+          "words": [
+            {
+              "boundingBox": "50,821,251,194",
+              "text": "Tu"
+            }
+          ]
+        },
+        {
+          "boundingBox": "582,842,459,163",
+          "words": [
+            {
+              "boundingBox": "582,842,459,163",
+              "text": "OCUM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

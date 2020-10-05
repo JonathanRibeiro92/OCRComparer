@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1184,304,1240,554",
+      "lines": [
+        {
+          "boundingBox": "1184,304,1208,392",
+          "words": [
+            {
+              "boundingBox": "1184,304,1208,392",
+              "text": "20509"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2145,720,279,138",
+          "words": [
+            {
+              "boundingBox": "2145,720,279,138",
+              "text": "kith"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

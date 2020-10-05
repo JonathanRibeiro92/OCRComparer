@@ -1,0 +1,43 @@
+{
+  "language": "en",
+  "textAngle": -0.09424777960769315,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "194,52,1178,370",
+      "lines": [
+        {
+          "boundingBox": "194,52,550,153",
+          "words": [
+            {
+              "boundingBox": "194,84,89,118",
+              "text": "(J"
+            },
+            {
+              "boundingBox": "312,52,432,153",
+              "text": "87T3"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1029,160,343,78",
+          "words": [
+            {
+              "boundingBox": "1029,160,343,78",
+              "text": "MM/YY"
+            }
+          ]
+        },
+        {
+          "boundingBox": "581,279,675,143",
+          "words": [
+            {
+              "boundingBox": "581,279,675,143",
+              "text": "Genus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

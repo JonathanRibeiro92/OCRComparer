@@ -1,0 +1,162 @@
+{
+  "language": "sk",
+  "textAngle": 0.027925268031909856,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "13,56,1172,1312",
+      "lines": [
+        {
+          "boundingBox": "32,56,859,135",
+          "words": [
+            {
+              "boundingBox": "32,56,130,81",
+              "text": "PH"
+            },
+            {
+              "boundingBox": "186,70,185,82",
+              "text": "ASE"
+            },
+            {
+              "boundingBox": "408,87,47,71",
+              "text": "2"
+            },
+            {
+              "boundingBox": "489,90,246,91",
+              "text": "WIRE"
+            },
+            {
+              "boundingBox": "766,118,125,73",
+              "text": "Ac"
+            }
+          ]
+        },
+        {
+          "boundingBox": "13,208,170,79",
+          "words": [
+            {
+              "boundingBox": "13,208,170,79",
+              "text": "40v"
+            }
+          ]
+        },
+        {
+          "boundingBox": "38,319,203,81",
+          "words": [
+            {
+              "boundingBox": "38,319,105,74",
+              "text": "20"
+            },
+            {
+              "boundingBox": "173,328,68,72",
+              "text": "A"
+            }
+          ]
+        },
+        {
+          "boundingBox": "762,1319,423,49",
+          "words": [
+            {
+              "boundingBox": "762,1319,348,48",
+              "text": "Manutacturod"
+            },
+            {
+              "boundingBox": "1127,1319,58,49",
+              "text": "by"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1823,215,192,67",
+      "lines": [
+        {
+          "boundingBox": "1823,215,192,67",
+          "words": [
+            {
+              "boundingBox": "1823,215,192,67",
+              "text": "äER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2083,213,477,705",
+      "lines": [
+        {
+          "boundingBox": "2083,213,358,104",
+          "words": [
+            {
+              "boundingBox": "2083,213,358,104",
+              "text": "EMIOI+"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2413,448,147,48",
+          "words": [
+            {
+              "boundingBox": "2413,448,118,45",
+              "text": "CMX."
+            },
+            {
+              "boundingBox": "2544,457,16,39",
+              "text": "6"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2327,518,233,81",
+          "words": [
+            {
+              "boundingBox": "2327,518,136,60",
+              "text": "3200"
+            },
+            {
+              "boundingBox": "2484,527,76,72",
+              "text": "im,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2317,614,108,57",
+          "words": [
+            {
+              "boundingBox": "2317,614,108,57",
+              "text": "P.O."
+            }
+          ]
+        },
+        {
+          "boundingBox": "2306,690,254,60",
+          "words": [
+            {
+              "boundingBox": "2306,690,254,60",
+              "text": "/A5/M.43/"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2303,768,254,57",
+          "words": [
+            {
+              "boundingBox": "2303,768,254,57",
+              "text": "RC.160/D"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2294,861,232,57",
+          "words": [
+            {
+              "boundingBox": "2294,861,232,57",
+              "text": "Guarant"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

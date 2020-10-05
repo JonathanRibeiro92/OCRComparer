@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "0,370,536,234",
+      "lines": [
+        {
+          "boundingBox": "0,370,536,234",
+          "words": [
+            {
+              "boundingBox": "0,370,536,234",
+              "text": "I?ES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1288,408,1088,400",
+      "lines": [
+        {
+          "boundingBox": "1288,408,1088,400",
+          "words": [
+            {
+              "boundingBox": "1288,408,1088,400",
+              "text": "1593?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

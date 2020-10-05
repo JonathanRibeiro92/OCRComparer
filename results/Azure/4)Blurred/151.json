@@ -1,0 +1,89 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "703,85,1030,1243",
+      "lines": [
+        {
+          "boundingBox": "1157,85,342,96",
+          "words": [
+            {
+              "boundingBox": "1157,85,342,96",
+              "text": "MM/YY"
+            }
+          ]
+        },
+        {
+          "boundingBox": "703,184,651,177",
+          "words": [
+            {
+              "boundingBox": "703,184,651,177",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1387,1245,346,83",
+          "words": [
+            {
+              "boundingBox": "1387,1245,346,83",
+              "text": "TAMPER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1860,603,622,712",
+      "lines": [
+        {
+          "boundingBox": "2252,603,164,69",
+          "words": [
+            {
+              "boundingBox": "2252,603,164,69",
+              "text": "kWh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2262,702,194,67",
+          "words": [
+            {
+              "boundingBox": "2262,702,194,67",
+              "text": "kVAh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2272,800,210,70",
+          "words": [
+            {
+              "boundingBox": "2272,800,210,70",
+              "text": "kvarh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1942,1135,164,71",
+          "words": [
+            {
+              "boundingBox": "1942,1135,164,71",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1860,1223,337,92",
+          "words": [
+            {
+              "boundingBox": "1860,1223,337,92",
+              "text": "implkvarh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

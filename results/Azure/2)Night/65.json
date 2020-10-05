@@ -1,0 +1,34 @@
+{
+  "language": "ar",
+  "textAngle": 0.03665191429188151,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "352,591,1759,609",
+      "lines": [
+        {
+          "boundingBox": "1761,591,350,162",
+          "words": [
+            {
+              "boundingBox": "1761,591,350,162",
+              "text": "٥؛"
+            }
+          ]
+        },
+        {
+          "boundingBox": "352,768,1304,432",
+          "words": [
+            {
+              "boundingBox": "352,768,1064,424",
+              "text": "حصg)."
+            },
+            {
+              "boundingBox": "1432,784,224,416",
+              "text": "5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

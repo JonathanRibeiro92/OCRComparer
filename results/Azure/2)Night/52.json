@@ -1,0 +1,66 @@
+{
+  "language": "ar",
+  "textAngle": 0.0,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "0,822,1257,268",
+      "lines": [
+        {
+          "boundingBox": "0,822,1257,268",
+          "words": [
+            {
+              "boundingBox": "0,822,475,268",
+              "text": "عصا"
+            },
+            {
+              "boundingBox": "1026,822,231,268",
+              "text": "لنا"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "11,461,2365,643",
+      "lines": [
+        {
+          "boundingBox": "11,461,278,211",
+          "words": [
+            {
+              "boundingBox": "11,461,278,211",
+              "text": "!41'"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2176,880,200,224",
+          "words": [
+            {
+              "boundingBox": "2176,880,200,224",
+              "text": ":8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1379,404,1145,248",
+      "lines": [
+        {
+          "boundingBox": "1379,404,1145,248",
+          "words": [
+            {
+              "boundingBox": "1379,445,355,168",
+              "text": "1/1170"
+            },
+            {
+              "boundingBox": "1879,404,645,248",
+              "text": "عه"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

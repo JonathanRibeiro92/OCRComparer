@@ -1,0 +1,66 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1027,150,685,175",
+      "lines": [
+        {
+          "boundingBox": "1027,150,685,175",
+          "words": [
+            {
+              "boundingBox": "1027,150,685,175",
+              "text": "Genus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2169,782,306,207",
+      "lines": [
+        {
+          "boundingBox": "2169,782,306,207",
+          "words": [
+            {
+              "boundingBox": "2169,782,306,207",
+              "text": "iwh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "201,1157,342,170",
+      "lines": [
+        {
+          "boundingBox": "277,1157,187,68",
+          "words": [
+            {
+              "boundingBox": "277,1157,187,68",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "201,1248,342,79",
+          "words": [
+            {
+              "boundingBox": "201,1262,12,52",
+              "text": "i"
+            },
+            {
+              "boundingBox": "223,1267,63,48",
+              "text": "m"
+            },
+            {
+              "boundingBox": "297,1248,246,79",
+              "text": "p/kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

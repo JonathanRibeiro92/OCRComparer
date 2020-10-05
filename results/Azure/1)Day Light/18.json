@@ -1,0 +1,83 @@
+{
+  "language": "ro",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "368,34,1280,965",
+      "lines": [
+        {
+          "boundingBox": "1048,34,600,154",
+          "words": [
+            {
+              "boundingBox": "1048,34,600,154",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "849,687,290,146",
+          "words": [
+            {
+              "boundingBox": "849,687,290,146",
+              "text": "CUM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "368,935,174,64",
+          "words": [
+            {
+              "boundingBox": "368,935,174,64",
+              "text": "1200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2147,897,151,59",
+      "lines": [
+        {
+          "boundingBox": "2147,897,151,59",
+          "words": [
+            {
+              "boundingBox": "2147,897,151,59",
+              "text": "1200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "535,1295,1857,145",
+      "lines": [
+        {
+          "boundingBox": "535,1295,1857,145",
+          "words": [
+            {
+              "boundingBox": "535,1350,433,90",
+              "text": "Tvŕp-03B,"
+            },
+            {
+              "boundingBox": "1006,1334,335,83",
+              "text": "3x240V,"
+            },
+            {
+              "boundingBox": "1377,1327,230,74",
+              "text": "50Hz,"
+            },
+            {
+              "boundingBox": "2137,1301,174,71",
+              "text": "CL-I"
+            },
+            {
+              "boundingBox": "2349,1295,43,69",
+              "text": "O"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

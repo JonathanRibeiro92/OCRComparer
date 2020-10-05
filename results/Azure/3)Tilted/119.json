@@ -1,0 +1,43 @@
+{
+  "language": "en",
+  "textAngle": -0.4084070449666726,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "0,70,2080,873",
+      "lines": [
+        {
+          "boundingBox": "865,70,635,175",
+          "words": [
+            {
+              "boundingBox": "865,70,635,175",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "968,352,1112,352",
+          "words": [
+            {
+              "boundingBox": "968,352,912,352",
+              "text": "tnnæ"
+            },
+            {
+              "boundingBox": "2024,376,56,296",
+              "text": "Il"
+            }
+          ]
+        },
+        {
+          "boundingBox": "0,749,965,194",
+          "words": [
+            {
+              "boundingBox": "0,749,965,194",
+              "text": "THoooCUM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "55,110,1809,796",
+      "lines": [
+        {
+          "boundingBox": "889,110,439,165",
+          "words": [
+            {
+              "boundingBox": "889,110,439,165",
+              "text": "Gent"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1056,384,808,352",
+          "words": [
+            {
+              "boundingBox": "1056,384,608,352",
+              "text": "590"
+            },
+            {
+              "boundingBox": "1808,424,56,312",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "boundingBox": "55,727,916,179",
+          "words": [
+            {
+              "boundingBox": "55,727,916,179",
+              "text": "THOOOCUM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1896,759,235,132",
+      "lines": [
+        {
+          "boundingBox": "1896,759,235,132",
+          "words": [
+            {
+              "boundingBox": "1896,759,235,132",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

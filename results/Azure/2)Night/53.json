@@ -1,0 +1,105 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "334,80,2069,706",
+      "lines": [
+        {
+          "boundingBox": "800,80,1390,132",
+          "words": [
+            {
+              "boundingBox": "800,80,491,132",
+              "text": "Property"
+            },
+            {
+              "boundingBox": "1481,98,709,100",
+              "text": "\"TANGEDCO\""
+            }
+          ]
+        },
+        {
+          "boundingBox": "526,241,1877,102",
+          "words": [
+            {
+              "boundingBox": "526,256,108,65",
+              "text": "ac"
+            },
+            {
+              "boundingBox": "715,241,47,80",
+              "text": "3"
+            },
+            {
+              "boundingBox": "791,242,330,101",
+              "text": "Phase,"
+            },
+            {
+              "boundingBox": "1233,247,208,79",
+              "text": "Wiro"
+            },
+            {
+              "boundingBox": "1481,249,242,79",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "1761,249,390,78",
+              "text": "Watthour"
+            },
+            {
+              "boundingBox": "2180,253,223,76",
+              "text": "Meter"
+            }
+          ]
+        },
+        {
+          "boundingBox": "408,373,1730,296",
+          "words": [
+            {
+              "boundingBox": "408,379,277,154",
+              "text": "pan"
+            },
+            {
+              "boundingBox": "751,379,163,148",
+              "text": "n"
+            },
+            {
+              "boundingBox": "979,379,155,144",
+              "text": "n"
+            },
+            {
+              "boundingBox": "1182,377,166,292",
+              "text": "?"
+            },
+            {
+              "boundingBox": "1401,373,737,292",
+              "text": "551JLl"
+            }
+          ]
+        },
+        {
+          "boundingBox": "334,532,787,172",
+          "words": [
+            {
+              "boundingBox": "334,570,26,126",
+              "text": "t"
+            },
+            {
+              "boundingBox": "410,532,711,172",
+              "text": "YtnUU"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2096,656,290,130",
+          "words": [
+            {
+              "boundingBox": "2096,656,290,130",
+              "text": "KWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

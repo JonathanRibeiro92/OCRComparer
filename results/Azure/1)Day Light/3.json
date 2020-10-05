@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "512,251,1816,605",
+      "lines": [
+        {
+          "boundingBox": "1287,251,489,140",
+          "words": [
+            {
+              "boundingBox": "1287,251,489,140",
+              "text": "Genug"
+            }
+          ]
+        },
+        {
+          "boundingBox": "512,432,1816,424",
+          "words": [
+            {
+              "boundingBox": "512,432,1816,424",
+              "text": "P-lP-18&HkWoh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

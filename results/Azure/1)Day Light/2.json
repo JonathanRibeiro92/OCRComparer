@@ -1,0 +1,42 @@
+{
+  "language": "ar",
+  "textAngle": 0.020943951023932546,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "352,304,2186,651",
+      "lines": [
+        {
+          "boundingBox": "352,304,1840,456",
+          "words": [
+            {
+              "boundingBox": "352,304,1064,448",
+              "text": "0005"
+            },
+            {
+              "boundingBox": "1496,352,696,408",
+              "text": "31011"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1542,779,996,176",
+          "words": [
+            {
+              "boundingBox": "1542,806,435,149",
+              "text": "OcUM"
+            },
+            {
+              "boundingBox": "2151,779,221,176",
+              "text": "١■"
+            },
+            {
+              "boundingBox": "2472,779,66,166",
+              "text": "٣"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

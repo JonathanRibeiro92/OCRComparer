@@ -1,0 +1,152 @@
+{
+  "language": "en",
+  "textAngle": -0.14835298641951736,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "2,362,1377,287",
+      "lines": [
+        {
+          "boundingBox": "491,362,888,97",
+          "words": [
+            {
+              "boundingBox": "491,362,405,97",
+              "text": "Property"
+            },
+            {
+              "boundingBox": "923,370,91,76",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1046,376,333,78",
+              "text": "\"TANC,»"
+            }
+          ]
+        },
+        {
+          "boundingBox": "325,466,952,80",
+          "words": [
+            {
+              "boundingBox": "325,477,116,59",
+              "text": "ac,"
+            },
+            {
+              "boundingBox": "465,466,176,78",
+              "text": "IPh,"
+            },
+            {
+              "boundingBox": "675,472,39,61",
+              "text": "2"
+            },
+            {
+              "boundingBox": "731,472,184,65",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "951,479,225,65",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "1206,487,71,59",
+              "text": "W"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2,599,215,50",
+          "words": [
+            {
+              "boundingBox": "2,599,215,50",
+              "text": "PEMOI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1467,495,717,539",
+      "lines": [
+        {
+          "boundingBox": "1467,495,367,64",
+          "words": [
+            {
+              "boundingBox": "1467,506,115,45",
+              "text": "our"
+            },
+            {
+              "boundingBox": "1615,495,219,64",
+              "text": "Motor"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2034,606,150,48",
+          "words": [
+            {
+              "boundingBox": "2034,606,150,48",
+              "text": "1370"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1877,976,162,58",
+          "words": [
+            {
+              "boundingBox": "1877,976,162,58",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "78,1079,2150,355",
+      "lines": [
+        {
+          "boundingBox": "168,1079,2060,53",
+          "words": [
+            {
+              "boundingBox": "168,1079,82,47",
+              "text": "No,"
+            },
+            {
+              "boundingBox": "261,1080,728,50",
+              "text": "CtlMMlSC/MM0ilECMlA5/M"
+            },
+            {
+              "boundingBox": "2188,1096,40,36",
+              "text": "•4"
+            }
+          ]
+        },
+        {
+          "boundingBox": "590,1181,195,65",
+          "words": [
+            {
+              "boundingBox": "590,1181,195,65",
+              "text": "6400"
+            }
+          ]
+        },
+        {
+          "boundingBox": "527,1260,316,71",
+          "words": [
+            {
+              "boundingBox": "527,1260,316,71",
+              "text": "imp/kWh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "78,1329,153,105",
+          "words": [
+            {
+              "boundingBox": "78,1329,153,105",
+              "text": "PHz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

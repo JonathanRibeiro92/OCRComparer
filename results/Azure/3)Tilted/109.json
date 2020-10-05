@@ -1,0 +1,75 @@
+{
+  "language": "tr",
+  "textAngle": -0.40317105721068963,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "255,54,2049,1138",
+      "lines": [
+        {
+          "boundingBox": "1067,54,763,106",
+          "words": [
+            {
+              "boundingBox": "1067,55,184,90",
+              "text": "atıc"
+            },
+            {
+              "boundingBox": "1294,54,218,99",
+              "text": "ItWh"
+            },
+            {
+              "boundingBox": "1554,63,276,97",
+              "text": "Mctcr"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1480,608,824,168",
+          "words": [
+            {
+              "boundingBox": "1480,608,824,168",
+              "text": "ILI.:ıkWh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "255,1026,1878,166",
+          "words": [
+            {
+              "boundingBox": "255,1082,201,110",
+              "text": "4L\"J"
+            },
+            {
+              "boundingBox": "535,1078,64,104",
+              "text": "3"
+            },
+            {
+              "boundingBox": "641,1101,67,76",
+              "text": "x"
+            },
+            {
+              "boundingBox": "750,1059,289,112",
+              "text": "240V"
+            },
+            {
+              "boundingBox": "1112,1049,271,106",
+              "text": "50Hz"
+            },
+            {
+              "boundingBox": "1452,1041,136,100",
+              "text": "cıs"
+            },
+            {
+              "boundingBox": "1631,1036,145,98",
+              "text": "1.0"
+            },
+            {
+              "boundingBox": "1848,1026,285,100",
+              "text": "Ref.2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

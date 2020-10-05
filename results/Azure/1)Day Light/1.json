@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "textAngle": -0.03490658503988597,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1064,323,469,109",
+      "lines": [
+        {
+          "boundingBox": "1064,323,469,109",
+          "words": [
+            {
+              "boundingBox": "1064,323,469,109",
+              "text": "Genus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

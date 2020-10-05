@@ -1,0 +1,72 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "0,79,1434,477",
+      "lines": [
+        {
+          "boundingBox": "216,79,1218,89",
+          "words": [
+            {
+              "boundingBox": "216,79,259,72",
+              "text": "ac,1Ph,"
+            },
+            {
+              "boundingBox": "501,85,40,58",
+              "text": "2"
+            },
+            {
+              "boundingBox": "550,86,159,60",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "741,87,204,64",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "976,94,241,74",
+              "text": "Energy"
+            },
+            {
+              "boundingBox": "1250,101,184,60",
+              "text": "Meter"
+            }
+          ]
+        },
+        {
+          "boundingBox": "0,223,90,35",
+          "words": [
+            {
+              "boundingBox": "0,223,90,35",
+              "text": "3779"
+            }
+          ]
+        },
+        {
+          "boundingBox": "190,378,1050,178",
+          "words": [
+            {
+              "boundingBox": "190,378,352,178",
+              "text": "luu"
+            },
+            {
+              "boundingBox": "663,386,577,120",
+              "text": "(000.13"
+            }
+          ]
+        },
+        {
+          "boundingBox": "0,414,138,40",
+          "words": [
+            {
+              "boundingBox": "0,414,138,40",
+              "text": "#536692"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

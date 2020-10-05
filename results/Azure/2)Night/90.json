@@ -1,0 +1,42 @@
+{
+  "language": "fr",
+  "textAngle": 0.026179938779915528,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "184,392,2216,608",
+      "lines": [
+        {
+          "boundingBox": "1504,392,896,208",
+          "words": [
+            {
+              "boundingBox": "1504,392,680,176",
+              "text": "wnooo"
+            },
+            {
+              "boundingBox": "2360,408,40,192",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "boundingBox": "184,576,1184,424",
+          "words": [
+            {
+              "boundingBox": "184,928,136,32",
+              "text": "_"
+            },
+            {
+              "boundingBox": "392,576,336,376",
+              "text": "h/"
+            },
+            {
+              "boundingBox": "872,608,496,392",
+              "text": "ISIS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

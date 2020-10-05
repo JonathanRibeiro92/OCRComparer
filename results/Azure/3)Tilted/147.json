@@ -1,0 +1,37 @@
+{
+  "language": "en",
+  "textAngle": -0.13089969389957407,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "271,2,833,58",
+      "lines": [
+        {
+          "boundingBox": "271,2,833,58",
+          "words": [
+            {
+              "boundingBox": "271,36,9,14",
+              "text": ","
+            },
+            {
+              "boundingBox": "351,11,130,34",
+              "text": "vvure"
+            },
+            {
+              "boundingBox": "508,2,177,45",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "712,2,206,58",
+              "text": "Energy"
+            },
+            {
+              "boundingBox": "949,5,155,46",
+              "text": "Meter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "language": "en",
+  "textAngle": -0.2111848394913132,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "88,52,678,406",
+      "lines": [
+        {
+          "boundingBox": "88,52,678,49",
+          "words": [
+            {
+              "boundingBox": "88,52,36,32",
+              "text": "<"
+            },
+            {
+              "boundingBox": "132,52,9,28",
+              "text": "i"
+            },
+            {
+              "boundingBox": "152,52,21,28",
+              "text": "F"
+            },
+            {
+              "boundingBox": "181,54,20,28",
+              "text": "h"
+            },
+            {
+              "boundingBox": "207,78,5,9",
+              "text": ","
+            },
+            {
+              "boundingBox": "228,55,19,30",
+              "text": "2"
+            },
+            {
+              "boundingBox": "257,55,89,32",
+              "text": "'N';re"
+            },
+            {
+              "boundingBox": "366,58,117,32",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "502,62,137,39",
+              "text": "Energy"
+            },
+            {
+              "boundingBox": "660,65,106,31",
+              "text": "Metec"
+            }
+          ]
+        },
+        {
+          "boundingBox": "282,425,156,33",
+          "words": [
+            {
+              "boundingBox": "282,425,156,33",
+              "text": "imp/kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

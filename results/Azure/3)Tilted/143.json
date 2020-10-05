@@ -1,0 +1,88 @@
+{
+  "language": "pt",
+  "textAngle": -0.151843644923506,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "326,842,86,88",
+      "lines": [
+        {
+          "boundingBox": "326,842,86,88",
+          "words": [
+            {
+              "boundingBox": "326,842,86,88",
+              "text": "o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "548,159,918,780",
+      "lines": [
+        {
+          "boundingBox": "890,159,576,145",
+          "words": [
+            {
+              "boundingBox": "890,159,126,132",
+              "text": "G"
+            },
+            {
+              "boundingBox": "1046,198,97,98",
+              "text": "e"
+            },
+            {
+              "boundingBox": "1170,198,296,106",
+              "text": "nus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "548,790,419,149",
+          "words": [
+            {
+              "boundingBox": "548,841,87,89",
+              "text": "o"
+            },
+            {
+              "boundingBox": "671,790,296,149",
+              "text": "CUM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1917,616,618,313",
+      "lines": [
+        {
+          "boundingBox": "2323,616,193,66",
+          "words": [
+            {
+              "boundingBox": "2323,616,193,66",
+              "text": "kVAh"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2328,711,207,64",
+          "words": [
+            {
+              "boundingBox": "2328,711,207,64",
+              "text": "kvart't"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1917,736,299,193",
+          "words": [
+            {
+              "boundingBox": "1917,736,299,193",
+              "text": "Iwh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

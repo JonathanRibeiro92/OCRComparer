@@ -1,0 +1,21 @@
+{
+  "language": "ar",
+  "textAngle": -0.10471975511966347,
+  "orientation": "Left",
+  "regions": [
+    {
+      "boundingBox": "90,913,165,65",
+      "lines": [
+        {
+          "boundingBox": "90,913,165,65",
+          "words": [
+            {
+              "boundingBox": "90,913,165,65",
+              "text": "دللا"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

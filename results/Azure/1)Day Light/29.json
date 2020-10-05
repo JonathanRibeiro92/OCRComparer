@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "textAngle": -0.0418879020478633,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "616,8,1192,208",
+      "lines": [
+        {
+          "boundingBox": "616,8,1192,208",
+          "words": [
+            {
+              "boundingBox": "616,8,1192,208",
+              "text": "soenus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

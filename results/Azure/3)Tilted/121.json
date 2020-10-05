@@ -1,0 +1,122 @@
+{
+  "language": "en",
+  "textAngle": -0.32114058236695603,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "906,42,1342,798",
+      "lines": [
+        {
+          "boundingBox": "1377,42,379,105",
+          "words": [
+            {
+              "boundingBox": "1377,42,379,105",
+              "text": "MM/YY"
+            }
+          ]
+        },
+        {
+          "boundingBox": "906,165,678,184",
+          "words": [
+            {
+              "boundingBox": "906,165,678,184",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1088,456,1160,384",
+          "words": [
+            {
+              "boundingBox": "1088,456,1160,384",
+              "text": "53?H.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2494,605,66,176",
+      "lines": [
+        {
+          "boundingBox": "2503,605,57,72",
+          "words": [
+            {
+              "boundingBox": "2503,605,57,72",
+              "text": "k'"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2494,709,66,72",
+          "words": [
+            {
+              "boundingBox": "2494,709,66,72",
+              "text": "k!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "59,825,952,494",
+      "lines": [
+        {
+          "boundingBox": "59,825,952,191",
+          "words": [
+            {
+              "boundingBox": "59,825,952,191",
+              "text": "TH000CUM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "145,1151,188,66",
+          "words": [
+            {
+              "boundingBox": "145,1151,188,66",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "110,1239,301,80",
+          "words": [
+            {
+              "boundingBox": "110,1239,301,80",
+              "text": "np/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2048,862,280,146",
+      "lines": [
+        {
+          "boundingBox": "2048,862,280,146",
+          "words": [
+            {
+              "boundingBox": "2048,862,280,146",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1542,1227,267,64",
+      "lines": [
+        {
+          "boundingBox": "1542,1227,267,64",
+          "words": [
+            {
+              "boundingBox": "1542,1227,267,64",
+              "text": "TAMPE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

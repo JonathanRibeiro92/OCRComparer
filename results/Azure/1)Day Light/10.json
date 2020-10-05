@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "textAngle": 0.06457718232379081,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "27,0,2039,1162",
+      "lines": [
+        {
+          "boundingBox": "1135,0,931,158",
+          "words": [
+            {
+              "boundingBox": "1135,0,313,82",
+              "text": "OLUUC"
+            },
+            {
+              "boundingBox": "1484,13,239,106",
+              "text": "KWh"
+            },
+            {
+              "boundingBox": "1764,31,302,127",
+              "text": "iviecer"
+            }
+          ]
+        },
+        {
+          "boundingBox": "667,400,624,198",
+          "words": [
+            {
+              "boundingBox": "667,400,624,198",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "27,1013,904,149",
+          "words": [
+            {
+              "boundingBox": "27,1052,329,93",
+              "text": "000"
+            },
+            {
+              "boundingBox": "392,1013,312,149",
+              "text": "CUM"
+            },
+            {
+              "boundingBox": "741,1020,190,140",
+              "text": "BP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

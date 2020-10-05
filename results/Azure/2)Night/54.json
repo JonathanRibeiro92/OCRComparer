@@ -1,0 +1,63 @@
+{
+  "language": "tr",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "159,319,2281,561",
+      "lines": [
+        {
+          "boundingBox": "159,319,2014,193",
+          "words": [
+            {
+              "boundingBox": "159,319,1336,176",
+              "text": "Rmnnn-ı"
+            },
+            {
+              "boundingBox": "1679,334,494,178",
+              "text": "ı:ın"
+            }
+          ]
+        },
+        {
+          "boundingBox": "168,504,1072,184",
+          "words": [
+            {
+              "boundingBox": "168,504,1072,184",
+              "text": "YMUUU"
+            }
+          ]
+        },
+        {
+          "boundingBox": "190,666,2250,214",
+          "words": [
+            {
+              "boundingBox": "190,718,97,162",
+              "text": "B"
+            },
+            {
+              "boundingBox": "722,693,282,166",
+              "text": "02"
+            },
+            {
+              "boundingBox": "1174,697,70,154",
+              "text": "E"
+            },
+            {
+              "boundingBox": "1302,681,308,167",
+              "text": "ûd5"
+            },
+            {
+              "boundingBox": "2104,667,209,143",
+              "text": "KW"
+            },
+            {
+              "boundingBox": "2382,666,58,136",
+              "text": "h"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

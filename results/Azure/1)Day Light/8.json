@@ -1,0 +1,30 @@
+{
+  "language": "tr",
+  "textAngle": -0.06632251157578387,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "893,8,1587,1186",
+      "lines": [
+        {
+          "boundingBox": "1664,8,816,264",
+          "words": [
+            {
+              "boundingBox": "1664,8,816,264",
+              "text": "wnoooo"
+            }
+          ]
+        },
+        {
+          "boundingBox": "893,1096,377,98",
+          "words": [
+            {
+              "boundingBox": "893,1096,377,98",
+              "text": "A)JVNVN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

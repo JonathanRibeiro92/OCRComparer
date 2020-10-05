@@ -1,0 +1,62 @@
+{
+  "language": "en",
+  "textAngle": -0.18151424220740958,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1097,184,597,162",
+      "lines": [
+        {
+          "boundingBox": "1097,184,597,162",
+          "words": [
+            {
+              "boundingBox": "1097,184,597,162",
+              "text": "Genus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "215,785,953,173",
+      "lines": [
+        {
+          "boundingBox": "215,785,953,173",
+          "words": [
+            {
+              "boundingBox": "215,928,23,30",
+              "text": "."
+            },
+            {
+              "boundingBox": "325,785,843,172",
+              "text": "THoooCUM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1288,448,1096,505",
+      "lines": [
+        {
+          "boundingBox": "1288,448,1000,344",
+          "words": [
+            {
+              "boundingBox": "1288,448,1000,344",
+              "text": "71038?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2122,816,262,137",
+          "words": [
+            {
+              "boundingBox": "2122,816,262,137",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

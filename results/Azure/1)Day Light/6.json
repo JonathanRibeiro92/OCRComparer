@@ -1,0 +1,121 @@
+{
+  "language": "en",
+  "textAngle": -0.024434609527920023,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "200,282,1548,277",
+      "lines": [
+        {
+          "boundingBox": "487,282,1109,134",
+          "words": [
+            {
+              "boundingBox": "487,302,520,114",
+              "text": "Property"
+            },
+            {
+              "boundingBox": "1049,291,112,93",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1213,282,383,96",
+              "text": "\"TANC"
+            }
+          ]
+        },
+        {
+          "boundingBox": "200,433,1548,126",
+          "words": [
+            {
+              "boundingBox": "200,487,147,72",
+              "text": "ac,"
+            },
+            {
+              "boundingBox": "393,463,49,80",
+              "text": "3"
+            },
+            {
+              "boundingBox": "473,459,351,93",
+              "text": "Phase,"
+            },
+            {
+              "boundingBox": "866,455,54,76",
+              "text": "4"
+            },
+            {
+              "boundingBox": "947,447,232,81",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "1223,438,274,82",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "1533,433,215,79",
+              "text": "WOL-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "144,616,776,336",
+      "lines": [
+        {
+          "boundingBox": "144,616,776,336",
+          "words": [
+            {
+              "boundingBox": "144,616,776,336",
+              "text": "Rmno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1440,608,608,312",
+      "lines": [
+        {
+          "boundingBox": "1440,608,608,312",
+          "words": [
+            {
+              "boundingBox": "1440,624,168,296",
+              "text": "H"
+            },
+            {
+              "boundingBox": "1672,608,376,312",
+              "text": "3.14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "26,1186,2532,213",
+      "lines": [
+        {
+          "boundingBox": "2519,1186,39,67",
+          "words": [
+            {
+              "boundingBox": "2519,1186,39,67",
+              "text": "d"
+            }
+          ]
+        },
+        {
+          "boundingBox": "26,1193,2418,206",
+          "words": [
+            {
+              "boundingBox": "26,1325,138,74",
+              "text": "MM"
+            },
+            {
+              "boundingBox": "178,1193,2266,199",
+              "text": "ISElMM.ll/EEM/A51Md812013-141R-APDRPlRC.1501D32111"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

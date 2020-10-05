@@ -1,0 +1,69 @@
+{
+  "language": "ro",
+  "textAngle": -0.20245819323134154,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1185,273,887,197",
+      "lines": [
+        {
+          "boundingBox": "1185,273,655,87",
+          "words": [
+            {
+              "boundingBox": "1185,273,130,78",
+              "text": "TA"
+            },
+            {
+              "boundingBox": "1331,278,509,82",
+              "text": "NGEL)CO'"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1258,398,814,72",
+          "words": [
+            {
+              "boundingBox": "1258,448,23,13",
+              "text": ".."
+            },
+            {
+              "boundingBox": "1318,398,449,67",
+              "text": "Vlatthour"
+            },
+            {
+              "boundingBox": "1810,401,262,69",
+              "text": "r,letcr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "482,1241,401,188",
+      "lines": [
+        {
+          "boundingBox": "563,1241,246,82",
+          "words": [
+            {
+              "boundingBox": "563,1241,246,82",
+              "text": "6400"
+            }
+          ]
+        },
+        {
+          "boundingBox": "482,1344,401,85",
+          "words": [
+            {
+              "boundingBox": "482,1365,76,46",
+              "text": "In"
+            },
+            {
+              "boundingBox": "598,1344,285,85",
+              "text": "plkWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

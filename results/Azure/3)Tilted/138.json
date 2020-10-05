@@ -1,0 +1,21 @@
+{
+  "language": "zh-Hant",
+  "textAngle": -0.16057029118347765,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "1095,988,558,131",
+      "lines": [
+        {
+          "boundingBox": "1095,988,558,131",
+          "words": [
+            {
+              "boundingBox": "1095,988,558,131",
+              "text": "snu09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

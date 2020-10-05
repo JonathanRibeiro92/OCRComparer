@@ -1,0 +1,71 @@
+{
+  "language": "en",
+  "textAngle": -0.31764992386296736,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "140,5,1678,1155",
+      "lines": [
+        {
+          "boundingBox": "1345,5,338,89",
+          "words": [
+            {
+              "boundingBox": "1345,5,338,89",
+              "text": "MM/YY"
+            }
+          ]
+        },
+        {
+          "boundingBox": "913,113,623,167",
+          "words": [
+            {
+              "boundingBox": "913,113,623,167",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "140,758,908,181",
+          "words": [
+            {
+              "boundingBox": "140,758,908,181",
+              "text": "TH000CUM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1515,1097,303,63",
+          "words": [
+            {
+              "boundingBox": "1515,1097,303,63",
+              "text": "TAMPER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1938,1008,307,152",
+      "lines": [
+        {
+          "boundingBox": "2018,1008,152,58",
+          "words": [
+            {
+              "boundingBox": "2018,1008,152,58",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1938,1086,307,74",
+          "words": [
+            {
+              "boundingBox": "1938,1086,307,74",
+              "text": "imp/kvarh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

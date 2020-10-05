@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "56,123,2423,1310",
+      "lines": [
+        {
+          "boundingBox": "538,123,1604,165",
+          "words": [
+            {
+              "boundingBox": "538,123,569,152",
+              "text": "Property"
+            },
+            {
+              "boundingBox": "1147,159,123,96",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1323,166,819,122",
+              "text": "\"TANGEDCO\""
+            }
+          ]
+        },
+        {
+          "boundingBox": "208,288,2209,146",
+          "words": [
+            {
+              "boundingBox": "208,301,168,83",
+              "text": "ac,"
+            },
+            {
+              "boundingBox": "426,288,56,88",
+              "text": "3"
+            },
+            {
+              "boundingBox": "518,293,383,112",
+              "text": "Phase,"
+            },
+            {
+              "boundingBox": "950,313,53,81",
+              "text": "4"
+            },
+            {
+              "boundingBox": "1038,313,244,93",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "1329,327,288,87",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "1655,335,464,91",
+              "text": "Watthour"
+            },
+            {
+              "boundingBox": "2154,351,263,83",
+              "text": "Meter"
+            }
+          ]
+        },
+        {
+          "boundingBox": "72,488,1824,192",
+          "words": [
+            {
+              "boundingBox": "72,488,864,184",
+              "text": "RLnnn"
+            },
+            {
+              "boundingBox": "1256,520,176,160",
+              "text": "n"
+            },
+            {
+              "boundingBox": "1736,528,160,152",
+              "text": "n"
+            }
+          ]
+        },
+        {
+          "boundingBox": "64,512,2056,352",
+          "words": [
+            {
+              "boundingBox": "64,688,112,176",
+              "text": "Y"
+            },
+            {
+              "boundingBox": "448,512,1672,344",
+              "text": "UUPU9U.3"
+            }
+          ]
+        },
+        {
+          "boundingBox": "56,878,2423,191",
+          "words": [
+            {
+              "boundingBox": "56,887,330,182",
+              "text": "BIB"
+            },
+            {
+              "boundingBox": "628,879,303,181",
+              "text": "O?"
+            },
+            {
+              "boundingBox": "1112,886,75,170",
+              "text": "E"
+            },
+            {
+              "boundingBox": "1251,879,327,175",
+              "text": "od5"
+            },
+            {
+              "boundingBox": "2108,878,213,151",
+              "text": "kW"
+            },
+            {
+              "boundingBox": "2407,878,72,147",
+              "text": "h"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2230,1177,243,79",
+          "words": [
+            {
+              "boundingBox": "2230,1177,243,79",
+              "text": "50/032"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2015,1350,222,83",
+          "words": [
+            {
+              "boundingBox": "2015,1350,222,83",
+              "text": "1600"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

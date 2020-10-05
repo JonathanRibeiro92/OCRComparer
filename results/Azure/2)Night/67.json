@@ -1,0 +1,35 @@
+{
+  "language": "de",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "667,727,317,155",
+      "lines": [
+        {
+          "boundingBox": "667,727,317,155",
+          "words": [
+            {
+              "boundingBox": "667,727,317,155",
+              "text": "CUM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2018,695,273,151",
+      "lines": [
+        {
+          "boundingBox": "2018,695,273,151",
+          "words": [
+            {
+              "boundingBox": "2018,695,273,151",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

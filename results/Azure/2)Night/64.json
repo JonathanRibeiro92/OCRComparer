@@ -1,0 +1,68 @@
+{
+  "language": "ar",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "154,497,1756,480",
+      "lines": [
+        {
+          "boundingBox": "160,497,716,148",
+          "words": [
+            {
+              "boundingBox": "160,497,266,145",
+              "text": "RIM"
+            },
+            {
+              "boundingBox": "490,503,386,142",
+              "text": "1717"
+            }
+          ]
+        },
+        {
+          "boundingBox": "937,510,973,284",
+          "words": [
+            {
+              "boundingBox": "937,510,153,284",
+              "text": "ع"
+            },
+            {
+              "boundingBox": "1109,510,620,284",
+              "text": "يباح"
+            },
+            {
+              "boundingBox": "1757,520,153,274",
+              "text": "با"
+            }
+          ]
+        },
+        {
+          "boundingBox": "160,657,700,152",
+          "words": [
+            {
+              "boundingBox": "160,668,82,140",
+              "text": "Y"
+            },
+            {
+              "boundingBox": "265,668,156,141",
+              "text": "ID"
+            },
+            {
+              "boundingBox": "447,657,413,152",
+              "text": "لالا"
+            }
+          ]
+        },
+        {
+          "boundingBox": "154,819,718,158",
+          "words": [
+            {
+              "boundingBox": "154,819,718,158",
+              "text": "BIEC'P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

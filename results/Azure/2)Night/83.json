@@ -1,0 +1,42 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "518,33,1436,925",
+      "lines": [
+        {
+          "boundingBox": "1600,33,214,91",
+          "words": [
+            {
+              "boundingBox": "1600,33,214,91",
+              "text": "14åRc"
+            }
+          ]
+        },
+        {
+          "boundingBox": "518,873,1436,85",
+          "words": [
+            {
+              "boundingBox": "518,873,639,84",
+              "text": "PROPERTY"
+            },
+            {
+              "boundingBox": "1192,874,145,80",
+              "text": "OF"
+            },
+            {
+              "boundingBox": "1370,875,500,83",
+              "text": "TANGEDC"
+            },
+            {
+              "boundingBox": "1892,880,62,77",
+              "text": "O"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

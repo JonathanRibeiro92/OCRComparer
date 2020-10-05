@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "textAngle": -0.373500459926786,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "1977,659,399,156",
+      "lines": [
+        {
+          "boundingBox": "1977,659,399,156",
+          "words": [
+            {
+              "boundingBox": "1977,665,291,141",
+              "text": "ooh"
+            },
+            {
+              "boundingBox": "2284,659,92,156",
+              "text": "I"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

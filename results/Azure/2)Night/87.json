@@ -1,0 +1,25 @@
+{
+  "language": "ar",
+  "textAngle": -0.043633231299857606,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "416,640,1376,384",
+      "lines": [
+        {
+          "boundingBox": "416,640,1376,384",
+          "words": [
+            {
+              "boundingBox": "416,640,1128,384",
+              "text": "7."
+            },
+            {
+              "boundingBox": "1592,640,200,376",
+              "text": "g"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

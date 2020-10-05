@@ -1,0 +1,41 @@
+{
+  "language": "ru",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "10,451,2489,87",
+      "lines": [
+        {
+          "boundingBox": "10,451,2489,87",
+          "words": [
+            {
+              "boundingBox": "10,465,334,72",
+              "text": "PH.ASE"
+            },
+            {
+              "boundingBox": "384,466,45,68",
+              "text": "2"
+            },
+            {
+              "boundingBox": "744,470,123,64",
+              "text": "АС"
+            },
+            {
+              "boundingBox": "909,470,300,66",
+              "text": "зТЛТВС"
+            },
+            {
+              "boundingBox": "1760,471,282,64",
+              "text": "МЕТЕН"
+            },
+            {
+              "boundingBox": "2113,451,386,87",
+              "text": "ЕМ1О1+"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

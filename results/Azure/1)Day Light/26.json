@@ -1,0 +1,78 @@
+{
+  "language": "en",
+  "textAngle": -0.02617993877991435,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "73,353,1231,687",
+      "lines": [
+        {
+          "boundingBox": "73,353,742,66",
+          "words": [
+            {
+              "boundingBox": "73,353,247,66",
+              "text": "•AASE"
+            },
+            {
+              "boundingBox": "356,354,39,63",
+              "text": "2"
+            },
+            {
+              "boundingBox": "694,354,121,63",
+              "text": "AC"
+            }
+          ]
+        },
+        {
+          "boundingBox": "872,664,432,376",
+          "words": [
+            {
+              "boundingBox": "872,664,432,376",
+              "text": "56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2286,617,274,408",
+      "lines": [
+        {
+          "boundingBox": "2286,617,272,65",
+          "words": [
+            {
+              "boundingBox": "2286,617,143,57",
+              "text": "32CO"
+            },
+            {
+              "boundingBox": "2453,618,105,64",
+              "text": "imp"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2297,865,263,62",
+          "words": [
+            {
+              "boundingBox": "2297,871,136,56",
+              "text": "RCA"
+            },
+            {
+              "boundingBox": "2444,865,116,55",
+              "text": "ct"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2302,965,258,60",
+          "words": [
+            {
+              "boundingBox": "2302,965,258,60",
+              "text": "Guaranti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

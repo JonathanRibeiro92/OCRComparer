@@ -1,0 +1,30 @@
+{
+  "language": "de",
+  "textAngle": -0.34382986264288234,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "1376,328,1058,539",
+      "lines": [
+        {
+          "boundingBox": "1376,328,992,376",
+          "words": [
+            {
+              "boundingBox": "1376,328,992,376",
+              "text": "1693.?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2166,720,268,147",
+          "words": [
+            {
+              "boundingBox": "2166,720,268,147",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

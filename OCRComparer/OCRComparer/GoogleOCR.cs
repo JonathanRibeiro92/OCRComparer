@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using Google.Cloud.Vision.V1;
 using Newtonsoft.Json.Linq;
 
@@ -8,7 +9,7 @@ namespace OCRComparer
 {
     public static class GoogleOCR
     {
-        public static string DetectText(string imageFilePath)
+        public static async Task<string> DetectText(string imageFilePath)
         {
             string credentialsPath = Environment.GetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS");
             var image = Image.FromFile(imageFilePath);
@@ -18,7 +19,7 @@ namespace OCRComparer
             };
 
             ImageAnnotatorClient client = builder.Build();
-            var response = client.DetectText(image);
+            var response = await client.DetectTextAsync(image);
 
             string contentString = response.ToString();
 

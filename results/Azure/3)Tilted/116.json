@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "textAngle": -0.3351032163829107,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "492,464,1421,790",
+      "lines": [
+        {
+          "boundingBox": "976,464,552,336",
+          "words": [
+            {
+              "boundingBox": "976,464,352,336",
+              "text": "05"
+            },
+            {
+              "boundingBox": "1368,480,160,304",
+              "text": "H"
+            }
+          ]
+        },
+        {
+          "boundingBox": "492,877,1421,107",
+          "words": [
+            {
+              "boundingBox": "492,890,618,94",
+              "text": "PROPERTY"
+            },
+            {
+              "boundingBox": "1145,888,143,82",
+              "text": "OF"
+            },
+            {
+              "boundingBox": "1322,877,591,95",
+              "text": "TANGEOCO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1377,1063,197,71",
+          "words": [
+            {
+              "boundingBox": "1377,1063,197,71",
+              "text": "1600"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1259,1163,415,91",
+          "words": [
+            {
+              "boundingBox": "1259,1163,415,91",
+              "text": "tmvA'VArå-"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

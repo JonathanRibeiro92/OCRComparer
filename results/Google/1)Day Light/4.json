@@ -1,0 +1,386 @@
+[
+  {
+    "locale": "en",
+    "description": "Gemus innovation Ltd Maridwar findia\n1 Ph\nGenus\nStatiW Meler\n035260\n1kW\n779\nS7763\nDA\nFMMVEEMASMA3/2013-14R-APDRP\n",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "y": 145
+        },
+        {
+          "x": 2524,
+          "y": 145
+        },
+        {
+          "x": 2524,
+          "y": 1465
+        },
+        {
+          "y": 1465
+        }
+      ]
+    }
+  },
+  {
+    "description": "Gemus",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 874,
+          "y": 145
+        },
+        {
+          "x": 1196,
+          "y": 170
+        },
+        {
+          "x": 1188,
+          "y": 276
+        },
+        {
+          "x": 866,
+          "y": 252
+        }
+      ]
+    }
+  },
+  {
+    "description": "innovation",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1201,
+          "y": 169
+        },
+        {
+          "x": 1716,
+          "y": 208
+        },
+        {
+          "x": 1708,
+          "y": 316
+        },
+        {
+          "x": 1193,
+          "y": 277
+        }
+      ]
+    }
+  },
+  {
+    "description": "Ltd",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1739,
+          "y": 211
+        },
+        {
+          "x": 1896,
+          "y": 223
+        },
+        {
+          "x": 1887,
+          "y": 330
+        },
+        {
+          "x": 1731,
+          "y": 318
+        }
+      ]
+    }
+  },
+  {
+    "description": "Maridwar",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1919,
+          "y": 224
+        },
+        {
+          "x": 2309,
+          "y": 254
+        },
+        {
+          "x": 2301,
+          "y": 362
+        },
+        {
+          "x": 1911,
+          "y": 332
+        }
+      ]
+    }
+  },
+  {
+    "description": "findia",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2311,
+          "y": 255
+        },
+        {
+          "x": 2524,
+          "y": 271
+        },
+        {
+          "x": 2516,
+          "y": 378
+        },
+        {
+          "x": 2303,
+          "y": 362
+        }
+      ]
+    }
+  },
+  {
+    "description": "1",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1014,
+          "y": 290
+        },
+        {
+          "x": 1138,
+          "y": 303
+        },
+        {
+          "x": 1128,
+          "y": 398
+        },
+        {
+          "x": 1004,
+          "y": 384
+        }
+      ]
+    }
+  },
+  {
+    "description": "Ph",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1153,
+          "y": 305
+        },
+        {
+          "x": 1259,
+          "y": 316
+        },
+        {
+          "x": 1249,
+          "y": 411
+        },
+        {
+          "x": 1143,
+          "y": 399
+        }
+      ]
+    }
+  },
+  {
+    "description": "Genus",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1252,
+          "y": 408
+        },
+        {
+          "x": 1774,
+          "y": 445
+        },
+        {
+          "x": 1763,
+          "y": 596
+        },
+        {
+          "x": 1241,
+          "y": 559
+        }
+      ]
+    }
+  },
+  {
+    "description": "StatiW",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1839,
+          "y": 360
+        },
+        {
+          "x": 2191,
+          "y": 386
+        },
+        {
+          "x": 2185,
+          "y": 471
+        },
+        {
+          "x": 1833,
+          "y": 445
+        }
+      ]
+    }
+  },
+  {
+    "description": "Meler",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2131,
+          "y": 381
+        },
+        {
+          "x": 2443,
+          "y": 404
+        },
+        {
+          "x": 2437,
+          "y": 490
+        },
+        {
+          "x": 2125,
+          "y": 467
+        }
+      ]
+    }
+  },
+  {
+    "description": "035260",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 448,
+          "y": 607
+        },
+        {
+          "x": 2076,
+          "y": 607
+        },
+        {
+          "x": 2076,
+          "y": 1074
+        },
+        {
+          "x": 448,
+          "y": 1074
+        }
+      ]
+    }
+  },
+  {
+    "description": "1kW",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1852,
+          "y": 676
+        },
+        {
+          "x": 2113,
+          "y": 677
+        },
+        {
+          "x": 2112,
+          "y": 852
+        },
+        {
+          "x": 1851,
+          "y": 851
+        }
+      ]
+    }
+  },
+  {
+    "description": "779",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "y": 640
+        },
+        {
+          "x": 189,
+          "y": 640
+        },
+        {
+          "x": 189,
+          "y": 709
+        },
+        {
+          "y": 709
+        }
+      ]
+    }
+  },
+  {
+    "description": "S7763",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "y": 1068
+        },
+        {
+          "x": 279,
+          "y": 1068
+        },
+        {
+          "x": 279,
+          "y": 1135
+        },
+        {
+          "y": 1135
+        }
+      ]
+    }
+  },
+  {
+    "description": "DA",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "y": 1186
+        },
+        {
+          "x": 183,
+          "y": 1186
+        },
+        {
+          "x": 183,
+          "y": 1311
+        },
+        {
+          "y": 1311
+        }
+      ]
+    }
+  },
+  {
+    "description": "FMMVEEMASMA3/2013-14R-APDRP",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 670,
+          "y": 1364
+        },
+        {
+          "x": 2407,
+          "y": 1324
+        },
+        {
+          "x": 2409,
+          "y": 1425
+        },
+        {
+          "x": 672,
+          "y": 1465
+        }
+      ]
+    }
+  }
+]

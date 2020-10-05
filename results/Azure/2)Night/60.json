@@ -1,0 +1,47 @@
+{
+  "language": "tr",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "112,400,1904,616",
+      "lines": [
+        {
+          "boundingBox": "112,400,1904,344",
+          "words": [
+            {
+              "boundingBox": "112,400,1344,344",
+              "text": "Rmnnınıc-1"
+            },
+            {
+              "boundingBox": "1600,416,416,304",
+              "text": "105"
+            }
+          ]
+        },
+        {
+          "boundingBox": "120,584,864,216",
+          "words": [
+            {
+              "boundingBox": "120,584,864,216",
+              "text": "YMUU"
+            }
+          ]
+        },
+        {
+          "boundingBox": "144,784,856,232",
+          "words": [
+            {
+              "boundingBox": "144,816,328,200",
+              "text": "BM"
+            },
+            {
+              "boundingBox": "720,784,280,176",
+              "text": "02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

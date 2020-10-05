@@ -1,0 +1,391 @@
+[
+  {
+    "locale": "en",
+    "description": "AC Static Watthour Meter ER300\nladu Generation & Distribution Corporation Limited\n1802583\nKWh\nHU\n20\n176162\n",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "y": 20
+        },
+        {
+          "x": 2559,
+          "y": 20
+        },
+        {
+          "x": 2559,
+          "y": 1455
+        },
+        {
+          "y": 1455
+        }
+      ]
+    }
+  },
+  {
+    "description": "AC",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2,
+          "y": 20
+        },
+        {
+          "x": 351,
+          "y": 25
+        },
+        {
+          "x": 349,
+          "y": 184
+        },
+        {
+          "y": 179
+        }
+      ]
+    }
+  },
+  {
+    "description": "Static",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 356,
+          "y": 24
+        },
+        {
+          "x": 775,
+          "y": 30
+        },
+        {
+          "x": 773,
+          "y": 190
+        },
+        {
+          "x": 354,
+          "y": 184
+        }
+      ]
+    }
+  },
+  {
+    "description": "Watthour",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 808,
+          "y": 51
+        },
+        {
+          "x": 1511,
+          "y": 60
+        },
+        {
+          "x": 1509,
+          "y": 191
+        },
+        {
+          "x": 806,
+          "y": 182
+        }
+      ]
+    }
+  },
+  {
+    "description": "Meter",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1556,
+          "y": 40
+        },
+        {
+          "x": 1923,
+          "y": 45
+        },
+        {
+          "x": 1921,
+          "y": 205
+        },
+        {
+          "x": 1554,
+          "y": 200
+        }
+      ]
+    }
+  },
+  {
+    "description": "ER300",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2144,
+          "y": 48
+        },
+        {
+          "x": 2511,
+          "y": 53
+        },
+        {
+          "x": 2509,
+          "y": 212
+        },
+        {
+          "x": 2142,
+          "y": 207
+        }
+      ]
+    }
+  },
+  {
+    "description": "ladu",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1,
+          "y": 384
+        },
+        {
+          "x": 271,
+          "y": 382
+        },
+        {
+          "x": 272,
+          "y": 493
+        },
+        {
+          "x": 2,
+          "y": 495
+        }
+      ]
+    }
+  },
+  {
+    "description": "Generation",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 264,
+          "y": 402
+        },
+        {
+          "x": 847,
+          "y": 398
+        },
+        {
+          "x": 848,
+          "y": 481
+        },
+        {
+          "x": 265,
+          "y": 485
+        }
+      ]
+    }
+  },
+  {
+    "description": "&",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 888,
+          "y": 397
+        },
+        {
+          "x": 955,
+          "y": 396
+        },
+        {
+          "x": 956,
+          "y": 475
+        },
+        {
+          "x": 889,
+          "y": 476
+        }
+      ]
+    }
+  },
+  {
+    "description": "Distribution",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 996,
+          "y": 396
+        },
+        {
+          "x": 1551,
+          "y": 392
+        },
+        {
+          "x": 1552,
+          "y": 472
+        },
+        {
+          "x": 997,
+          "y": 476
+        }
+      ]
+    }
+  },
+  {
+    "description": "Corporation",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1590,
+          "y": 371
+        },
+        {
+          "x": 2087,
+          "y": 367
+        },
+        {
+          "x": 2088,
+          "y": 479
+        },
+        {
+          "x": 1591,
+          "y": 483
+        }
+      ]
+    }
+  },
+  {
+    "description": "Limited",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2094,
+          "y": 368
+        },
+        {
+          "x": 2395,
+          "y": 366
+        },
+        {
+          "x": 2396,
+          "y": 477
+        },
+        {
+          "x": 2095,
+          "y": 479
+        }
+      ]
+    }
+  },
+  {
+    "description": "1802583",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 208,
+          "y": 672
+        },
+        {
+          "x": 1915,
+          "y": 630
+        },
+        {
+          "x": 1923,
+          "y": 951
+        },
+        {
+          "x": 216,
+          "y": 993
+        }
+      ]
+    }
+  },
+  {
+    "description": "KWh",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1968,
+          "y": 724
+        },
+        {
+          "x": 2175,
+          "y": 721
+        },
+        {
+          "x": 2177,
+          "y": 840
+        },
+        {
+          "x": 1970,
+          "y": 843
+        }
+      ]
+    }
+  },
+  {
+    "description": "HU",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2456,
+          "y": 1177
+        },
+        {
+          "x": 2557,
+          "y": 1172
+        },
+        {
+          "x": 2559,
+          "y": 1219
+        },
+        {
+          "x": 2458,
+          "y": 1224
+        }
+      ]
+    }
+  },
+  {
+    "description": "20",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 2444,
+          "y": 1286
+        },
+        {
+          "x": 2557,
+          "y": 1284
+        },
+        {
+          "x": 2559,
+          "y": 1369
+        },
+        {
+          "x": 2446,
+          "y": 1371
+        }
+      ]
+    }
+  },
+  {
+    "description": "176162",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 48,
+          "y": 1303
+        },
+        {
+          "x": 855,
+          "y": 1286
+        },
+        {
+          "x": 858,
+          "y": 1438
+        },
+        {
+          "x": 51,
+          "y": 1455
+        }
+      ]
+    }
+  }
+]

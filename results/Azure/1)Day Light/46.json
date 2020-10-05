@@ -1,0 +1,99 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "932,78,765,273",
+      "lines": [
+        {
+          "boundingBox": "1360,78,337,85",
+          "words": [
+            {
+              "boundingBox": "1360,78,337,85",
+              "text": "MM/YY"
+            }
+          ]
+        },
+        {
+          "boundingBox": "932,192,615,159",
+          "words": [
+            {
+              "boundingBox": "932,192,615,159",
+              "text": "Genus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "97,841,916,455",
+      "lines": [
+        {
+          "boundingBox": "204,841,809,179",
+          "words": [
+            {
+              "boundingBox": "204,841,809,179",
+              "text": "HoooCUM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "178,1119,185,68",
+          "words": [
+            {
+              "boundingBox": "178,1119,185,68",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "97,1209,338,87",
+          "words": [
+            {
+              "boundingBox": "97,1209,338,87",
+              "text": "imp/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1561,1187,325,70",
+      "lines": [
+        {
+          "boundingBox": "1561,1187,325,70",
+          "words": [
+            {
+              "boundingBox": "1561,1187,325,70",
+              "text": "TAMPER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "2015,1093,324,165",
+      "lines": [
+        {
+          "boundingBox": "2096,1093,159,64",
+          "words": [
+            {
+              "boundingBox": "2096,1093,159,64",
+              "text": "1200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2015,1176,324,82",
+          "words": [
+            {
+              "boundingBox": "2015,1176,324,82",
+              "text": "imp/kvarh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

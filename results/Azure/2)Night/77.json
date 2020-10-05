@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "textAngle": 0.04014257279587017,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "162,362,1184,155",
+      "lines": [
+        {
+          "boundingBox": "162,362,1184,155",
+          "words": [
+            {
+              "boundingBox": "162,367,49,116",
+              "text": "(1"
+            },
+            {
+              "boundingBox": "659,362,687,155",
+              "text": "Lljnoe@O"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

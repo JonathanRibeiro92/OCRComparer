@@ -1,0 +1,33 @@
+{
+  "language": "en",
+  "textAngle": -0.10122909661567048,
+  "orientation": "Down",
+  "regions": [
+    {
+      "boundingBox": "1482,589,865,167",
+      "lines": [
+        {
+          "boundingBox": "1482,589,865,167",
+          "words": [
+            {
+              "boundingBox": "1482,589,227,165",
+              "text": "WII"
+            },
+            {
+              "boundingBox": "1738,589,96,167",
+              "text": "O"
+            },
+            {
+              "boundingBox": "1884,597,249,99",
+              "text": "OO"
+            },
+            {
+              "boundingBox": "2324,617,23,68",
+              "text": "j"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

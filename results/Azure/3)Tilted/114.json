@@ -1,0 +1,38 @@
+{
+  "language": "ar",
+  "textAngle": -0.331612557878922,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "565,453,1005,360",
+      "lines": [
+        {
+          "boundingBox": "767,453,621,163",
+          "words": [
+            {
+              "boundingBox": "767,453,179,151",
+              "text": "تا"
+            },
+            {
+              "boundingBox": "1181,472,207,144",
+              "text": "ر"
+            }
+          ]
+        },
+        {
+          "boundingBox": "565,638,1005,175",
+          "words": [
+            {
+              "boundingBox": "565,638,459,175",
+              "text": "تا"
+            },
+            {
+              "boundingBox": "1046,638,524,175",
+              "text": "كع"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

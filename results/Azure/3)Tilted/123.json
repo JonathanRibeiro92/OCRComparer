@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "textAngle": -0.3961897402027123,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "854,223,1252,682",
+      "lines": [
+        {
+          "boundingBox": "854,223,556,136",
+          "words": [
+            {
+              "boundingBox": "854,223,556,136",
+              "text": "Genus"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1867,772,239,133",
+          "words": [
+            {
+              "boundingBox": "1867,772,239,133",
+              "text": "kWh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

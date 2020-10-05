@@ -1,0 +1,38 @@
+{
+  "language": "tr",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "408,292,1408,836",
+      "lines": [
+        {
+          "boundingBox": "694,292,1122,148",
+          "words": [
+            {
+              "boundingBox": "694,292,104,110",
+              "text": "ty"
+            },
+            {
+              "boundingBox": "837,293,121,91",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1004,305,812,135",
+              "text": "-TANGEDC«"
+            }
+          ]
+        },
+        {
+          "boundingBox": "408,736,896,392",
+          "words": [
+            {
+              "boundingBox": "408,736,896,392",
+              "text": "131.15."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

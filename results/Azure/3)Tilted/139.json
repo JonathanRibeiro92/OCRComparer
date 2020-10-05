@@ -1,0 +1,85 @@
+{
+  "language": "nl",
+  "textAngle": -0.16406094968746635,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "5,390,2532,1050",
+      "lines": [
+        {
+          "boundingBox": "5,390,2286,124",
+          "words": [
+            {
+              "boundingBox": "5,390,246,81",
+              "text": "IASE"
+            },
+            {
+              "boundingBox": "290,397,49,74",
+              "text": "2"
+            },
+            {
+              "boundingBox": "373,395,257,81",
+              "text": "WI!RE"
+            },
+            {
+              "boundingBox": "666,413,128,67",
+              "text": "AC"
+            },
+            {
+              "boundingBox": "1167,425,452,74",
+              "text": "Ç/ATTHOUR"
+            },
+            {
+              "boundingBox": "1647,437,251,68",
+              "text": "METER"
+            },
+            {
+              "boundingBox": "1959,425,332,89",
+              "text": "EMIOI+"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2221,708,124,57",
+          "words": [
+            {
+              "boundingBox": "2221,708,124,57",
+              "text": "3200"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2222,872,290,62",
+          "words": [
+            {
+              "boundingBox": "2222,872,290,62",
+              "text": "IA51M.43'iC"
+            }
+          ]
+        },
+        {
+          "boundingBox": "2230,1045,307,64",
+          "words": [
+            {
+              "boundingBox": "2230,1045,276,64",
+              "text": "Guarantee"
+            },
+            {
+              "boundingBox": "2526,1050,11,37",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "boundingBox": "734,1270,798,170",
+          "words": [
+            {
+              "boundingBox": "734,1270,798,170",
+              "text": "d<1Û4364"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

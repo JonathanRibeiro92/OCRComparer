@@ -1,0 +1,29 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "563,69,1519,123",
+      "lines": [
+        {
+          "boundingBox": "563,69,1519,123",
+          "words": [
+            {
+              "boundingBox": "563,69,525,123",
+              "text": "Property"
+            },
+            {
+              "boundingBox": "1121,82,119,90",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1277,86,805,97",
+              "text": "-TANGEDCO-"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

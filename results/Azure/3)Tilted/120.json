@@ -1,0 +1,77 @@
+{
+  "language": "en",
+  "textAngle": -0.22689280275926219,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "314,134,1077,71",
+      "lines": [
+        {
+          "boundingBox": "314,134,1077,71",
+          "words": [
+            {
+              "boundingBox": "314,134,234,61",
+              "text": "ac,1Ph,"
+            },
+            {
+              "boundingBox": "570,137,32,50",
+              "text": "2"
+            },
+            {
+              "boundingBox": "614,137,141,53",
+              "text": "Wire"
+            },
+            {
+              "boundingBox": "782,139,181,52",
+              "text": "Static"
+            },
+            {
+              "boundingBox": "991,143,210,62",
+              "text": "Energy"
+            },
+            {
+              "boundingBox": "1232,146,159,51",
+              "text": "Meter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "0,261,247,450",
+      "lines": [
+        {
+          "boundingBox": "19,261,181,31",
+          "words": [
+            {
+              "boundingBox": "19,263,43,29",
+              "text": "•IS"
+            },
+            {
+              "boundingBox": "74,261,126,31",
+              "text": "113779"
+            }
+          ]
+        },
+        {
+          "boundingBox": "0,431,247,35",
+          "words": [
+            {
+              "boundingBox": "0,431,247,35",
+              "text": "CML.953S692"
+            }
+          ]
+        },
+        {
+          "boundingBox": "56,653,172,58",
+          "words": [
+            {
+              "boundingBox": "56,653,172,58",
+              "text": "-30A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
