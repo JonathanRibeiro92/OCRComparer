@@ -21,15 +21,18 @@ namespace OCRComparer
                     string pathJsonResult = "E:\\TCC\\source\\OCRComparer\\results\\";
                     string fileName = file.Split('\\').Last();
                     string directoryName = subdirectory.Split('\\').Last();
-                    //string nomeArquivoAWSJson =  pathJsonResult + "AWS\\" + directoryName + "\\" + fileName.Split('.')[0] + ".json";
+                    string nomeArquivoAWSJson = pathJsonResult + "AWS\\" + directoryName + "\\" + fileName.Split('.')[0] + ".json";
                     string nomeArquivoGoogleJson = pathJsonResult + "Google\\" + directoryName + "\\" + fileName.Split('.')[0] + ".json";
                     string nomeArquivoAzureJson = pathJsonResult + "Azure\\" + directoryName + "\\" + fileName.Split('.')[0] + ".json";
-                    //string jsonAmazon = AwsOCR.MakeOCRRequest(file).Result;
+                    string nomeArquivoOCRSpaceJson = pathJsonResult + "OCRSpace\\" + directoryName + "\\" + fileName.Split('.')[0] + ".json";
+                    string jsonAmazon = AwsOCR.MakeOCRRequest(file).Result;
                     string jsonAzure = AzureOCR.MakeOCRRequest(file).Result;
-                    string jsonGoogle =  GoogleOCR.DetectText(file).Result;
-                    //File.WriteAllText(nomeArquivoAWSJson, jsonAmazon);
+                    string jsonGoogle = GoogleOCR.DetectText(file).Result;
+                    string jsonOCRSpace = OCRSpaceOCR.MakeOCRRequest(file).Result;
+                    File.WriteAllText(nomeArquivoAWSJson, jsonAmazon);
                     File.WriteAllText(nomeArquivoAzureJson, jsonAzure);
                     File.WriteAllText(nomeArquivoGoogleJson, jsonGoogle);
+                    File.WriteAllText(nomeArquivoOCRSpaceJson, jsonOCRSpace);
                 }
 
             }
