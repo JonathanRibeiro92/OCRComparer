@@ -1,0 +1,291 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "MV",
+      "XLeft": 875,
+      "YTop": 36,
+      "Width": 81,
+      "Height": 59,
+      "BoundingPoints": [
+        {
+          "X": 875,
+          "Y": 36
+        },
+        {
+          "X": 959,
+          "Y": 40
+        },
+        {
+          "X": 956,
+          "Y": 95
+        },
+        {
+          "X": 872,
+          "Y": 91
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Genus",
+      "XLeft": 623,
+      "YTop": 92,
+      "Width": 360,
+      "Height": 127,
+      "BoundingPoints": [
+        {
+          "X": 623,
+          "Y": 92
+        },
+        {
+          "X": 986,
+          "Y": 121
+        },
+        {
+          "X": 983,
+          "Y": 219
+        },
+        {
+          "X": 613,
+          "Y": 198
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "TH",
+      "XLeft": 48,
+      "YTop": 510,
+      "Width": 162,
+      "Height": 118,
+      "BoundingPoints": [
+        {
+          "X": 48,
+          "Y": 510
+        },
+        {
+          "X": 202,
+          "Y": 500
+        },
+        {
+          "X": 210,
+          "Y": 628
+        },
+        {
+          "X": 57,
+          "Y": 638
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "357",
+      "XLeft": 885,
+      "YTop": 238,
+      "Width": 312,
+      "Height": 280,
+      "BoundingPoints": [
+        {
+          "X": 885,
+          "Y": 238
+        },
+        {
+          "X": 1207,
+          "Y": 250
+        },
+        {
+          "X": 1197,
+          "Y": 518
+        },
+        {
+          "X": 876,
+          "Y": 506
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 457,
+      "YTop": 526,
+      "Width": 192,
+      "Height": 99,
+      "BoundingPoints": [
+        {
+          "X": 457,
+          "Y": 526
+        },
+        {
+          "X": 648,
+          "Y": 523
+        },
+        {
+          "X": 649,
+          "Y": 625
+        },
+        {
+          "X": 459,
+          "Y": 628
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1217,
+      "YTop": 501,
+      "Width": 143,
+      "Height": 85,
+      "BoundingPoints": [
+        {
+          "X": 1217,
+          "Y": 501
+        },
+        {
+          "X": 1358,
+          "Y": 499
+        },
+        {
+          "X": 1360,
+          "Y": 586
+        },
+        {
+          "X": 1219,
+          "Y": 589
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1200",
+      "XLeft": 121,
+      "YTop": 719,
+      "Width": 126,
+      "Height": 43,
+      "BoundingPoints": [
+        {
+          "X": 121,
+          "Y": 719
+        },
+        {
+          "X": 245,
+          "Y": 713
+        },
+        {
+          "X": 247,
+          "Y": 762
+        },
+        {
+          "X": 123,
+          "Y": 768
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1200",
+      "XLeft": 1270,
+      "YTop": 658,
+      "Width": 83,
+      "Height": 40,
+      "BoundingPoints": [
+        {
+          "X": 1270,
+          "Y": 658
+        },
+        {
+          "X": 1351,
+          "Y": 654
+        },
+        {
+          "X": 1353,
+          "Y": 698
+        },
+        {
+          "X": 1272,
+          "Y": 703
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "mokwh",
+      "XLeft": 75,
+      "YTop": 782,
+      "Width": 218,
+      "Height": 40,
+      "BoundingPoints": [
+        {
+          "X": 75,
+          "Y": 782
+        },
+        {
+          "X": 291,
+          "Y": 767
+        },
+        {
+          "X": 293,
+          "Y": 822
+        },
+        {
+          "X": 80,
+          "Y": 835
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "TAMPER",
+      "XLeft": 979,
+      "YTop": 727,
+      "Width": 177,
+      "Height": 37,
+      "BoundingPoints": [
+        {
+          "X": 979,
+          "Y": 727
+        },
+        {
+          "X": 1152,
+          "Y": 718
+        },
+        {
+          "X": 1156,
+          "Y": 764
+        },
+        {
+          "X": 982,
+          "Y": 771
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "inplan",
+      "XLeft": 1219,
+      "YTop": 714,
+      "Width": 174,
+      "Height": 34,
+      "BoundingPoints": [
+        {
+          "X": 1219,
+          "Y": 714
+        },
+        {
+          "X": 1389,
+          "Y": 705
+        },
+        {
+          "X": 1393,
+          "Y": 748
+        },
+        {
+          "X": 1222,
+          "Y": 760
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "72",
+      "XLeft": 808,
+      "YTop": 359,
+      "Width": 154,
+      "Height": 284,
+      "BoundingPoints": [
+        {
+          "X": 808,
+          "Y": 359
+        },
+        {
+          "X": 987,
+          "Y": 375
+        },
+        {
+          "X": 962,
+          "Y": 643
+        },
+        {
+          "X": 784,
+          "Y": 627
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "451800",
+      "XLeft": 372,
+      "YTop": 701,
+      "Width": 384,
+      "Height": 105,
+      "BoundingPoints": [
+        {
+          "X": 372,
+          "Y": 701
+        },
+        {
+          "X": 753,
+          "Y": 684
+        },
+        {
+          "X": 756,
+          "Y": 806
+        },
+        {
+          "X": 376,
+          "Y": 813
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}
