@@ -1,0 +1,161 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genus",
+      "XLeft": 400,
+      "YTop": 2,
+      "Width": 681,
+      "Height": 269,
+      "BoundingPoints": [
+        {
+          "X": 400,
+          "Y": 2
+        },
+        {
+          "X": 1122,
+          "Y": 122
+        },
+        {
+          "X": 1081,
+          "Y": 271
+        },
+        {
+          "X": 387,
+          "Y": 99
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1068",
+      "XLeft": 348,
+      "YTop": 235,
+      "Width": 525,
+      "Height": 328,
+      "BoundingPoints": [
+        {
+          "X": 348,
+          "Y": 235
+        },
+        {
+          "X": 911,
+          "Y": 322
+        },
+        {
+          "X": 873,
+          "Y": 563
+        },
+        {
+          "X": 311,
+          "Y": 476
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "W",
+      "XLeft": 1223,
+      "YTop": 574,
+      "Width": 25,
+      "Height": 30,
+      "BoundingPoints": [
+        {
+          "X": 1223,
+          "Y": 574
+        },
+        {
+          "X": 1245,
+          "Y": 572
+        },
+        {
+          "X": 1248,
+          "Y": 604
+        },
+        {
+          "X": 1226,
+          "Y": 607
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 859,
+      "YTop": 616,
+      "Width": 154,
+      "Height": 103,
+      "BoundingPoints": [
+        {
+          "X": 859,
+          "Y": 616
+        },
+        {
+          "X": 1028,
+          "Y": 624
+        },
+        {
+          "X": 1013,
+          "Y": 719
+        },
+        {
+          "X": 847,
+          "Y": 692
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "\"KW",
+      "XLeft": 1098,
+      "YTop": 629,
+      "Width": 110,
+      "Height": 120,
+      "BoundingPoints": [
+        {
+          "X": 1098,
+          "Y": 629
+        },
+        {
+          "X": 1228,
+          "Y": 640
+        },
+        {
+          "X": 1208,
+          "Y": 749
+        },
+        {
+          "X": 1081,
+          "Y": 730
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1317,
+      "YTop": 648,
+      "Width": 22,
+      "Height": 121,
+      "BoundingPoints": [
+        {
+          "X": 1317,
+          "Y": 648
+        },
+        {
+          "X": 1362,
+          "Y": 653
+        },
+        {
+          "X": 1339,
+          "Y": 769
+        },
+        {
+          "X": 1295,
+          "Y": 763
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

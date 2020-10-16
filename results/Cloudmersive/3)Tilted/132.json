@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "TANGEDCO",
+      "XLeft": 846,
+      "YTop": 65,
+      "Width": 355,
+      "Height": 127,
+      "BoundingPoints": [
+        {
+          "X": 846,
+          "Y": 65
+        },
+        {
+          "X": 1214,
+          "Y": 129
+        },
+        {
+          "X": 1201,
+          "Y": 192
+        },
+        {
+          "X": 837,
+          "Y": 127
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "672",
+      "XLeft": 535,
+      "YTop": 230,
+      "Width": 315,
+      "Height": 333,
+      "BoundingPoints": [
+        {
+          "X": 535,
+          "Y": 230
+        },
+        {
+          "X": 901,
+          "Y": 301
+        },
+        {
+          "X": 850,
+          "Y": 563
+        },
+        {
+          "X": 483,
+          "Y": 492
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "7KW",
+      "XLeft": 1002,
+      "YTop": 318,
+      "Width": 164,
+      "Height": 160,
+      "BoundingPoints": [
+        {
+          "X": 1002,
+          "Y": 318
+        },
+        {
+          "X": 1189,
+          "Y": 351
+        },
+        {
+          "X": 1166,
+          "Y": 478
+        },
+        {
+          "X": 980,
+          "Y": 445
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1214,
+      "YTop": 355,
+      "Width": 20,
+      "Height": 135,
+      "BoundingPoints": [
+        {
+          "X": 1214,
+          "Y": 355
+        },
+        {
+          "X": 1256,
+          "Y": 363
+        },
+        {
+          "X": 1234,
+          "Y": 490
+        },
+        {
+          "X": 1192,
+          "Y": 483
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genus",
+      "XLeft": 425,
+      "YTop": 0,
+      "Width": 628,
+      "Height": 142,
+      "BoundingPoints": [
+        {
+          "X": 425,
+          "Y": 0
+        },
+        {
+          "X": 1057,
+          "Y": 16
+        },
+        {
+          "X": 1053,
+          "Y": 142
+        },
+        {
+          "X": 420,
+          "Y": 103
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 911,
+      "YTop": 469,
+      "Width": 156,
+      "Height": 74,
+      "BoundingPoints": [
+        {
+          "X": 911,
+          "Y": 469
+        },
+        {
+          "X": 1066,
+          "Y": 471
+        },
+        {
+          "X": 1067,
+          "Y": 543
+        },
+        {
+          "X": 910,
+          "Y": 544
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CO",
+      "XLeft": 1375,
+      "YTop": 476,
+      "Width": 31,
+      "Height": -116,
+      "BoundingPoints": [
+        {
+          "X": 1375,
+          "Y": 476
+        },
+        {
+          "X": 1355,
+          "Y": 369
+        },
+        {
+          "X": 1406,
+          "Y": 360
+        },
+        {
+          "X": 1425,
+          "Y": 467
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "En",
+      "XLeft": 116,
+      "YTop": 273,
+      "Width": 149,
+      "Height": 118,
+      "BoundingPoints": [
+        {
+          "X": 116,
+          "Y": 273
+        },
+        {
+          "X": 268,
+          "Y": 277
+        },
+        {
+          "X": 265,
+          "Y": 391
+        },
+        {
+          "X": 113,
+          "Y": 387
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "JKW",
+      "XLeft": 1003,
+      "YTop": 296,
+      "Width": 217,
+      "Height": 128,
+      "BoundingPoints": [
+        {
+          "X": 1003,
+          "Y": 296
+        },
+        {
+          "X": 1216,
+          "Y": 291
+        },
+        {
+          "X": 1220,
+          "Y": 424
+        },
+        {
+          "X": 1007,
+          "Y": 429
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1252,
+      "YTop": 290,
+      "Width": 47,
+      "Height": 132,
+      "BoundingPoints": [
+        {
+          "X": 1252,
+          "Y": 290
+        },
+        {
+          "X": 1296,
+          "Y": 289
+        },
+        {
+          "X": 1299,
+          "Y": 422
+        },
+        {
+          "X": 1255,
+          "Y": 423
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1903",
+      "XLeft": 657,
+      "YTop": 297,
+      "Width": 470,
+      "Height": 252,
+      "BoundingPoints": [
+        {
+          "X": 657,
+          "Y": 297
+        },
+        {
+          "X": 1145,
+          "Y": 340
+        },
+        {
+          "X": 1127,
+          "Y": 549
+        },
+        {
+          "X": 639,
+          "Y": 506
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

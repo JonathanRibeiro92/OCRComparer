@@ -1,0 +1,161 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "MM/YY",
+      "XLeft": 924,
+      "YTop": 0,
+      "Width": 232,
+      "Height": 74,
+      "BoundingPoints": [
+        {
+          "X": 924,
+          "Y": 0
+        },
+        {
+          "X": 1159,
+          "Y": 11
+        },
+        {
+          "X": 1156,
+          "Y": 74
+        },
+        {
+          "X": 921,
+          "Y": 63
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Genus",
+      "XLeft": 628,
+      "YTop": 68,
+      "Width": 410,
+      "Height": 148,
+      "BoundingPoints": [
+        {
+          "X": 628,
+          "Y": 68
+        },
+        {
+          "X": 1043,
+          "Y": 104
+        },
+        {
+          "X": 1038,
+          "Y": 216
+        },
+        {
+          "X": 620,
+          "Y": 188
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "E",
+      "XLeft": 1080,
+      "YTop": 361,
+      "Width": 211,
+      "Height": -77,
+      "BoundingPoints": [
+        {
+          "X": 1080,
+          "Y": 361
+        },
+        {
+          "X": 1095,
+          "Y": 257
+        },
+        {
+          "X": 1291,
+          "Y": 284
+        },
+        {
+          "X": 1276,
+          "Y": 389
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Do",
+      "XLeft": 221,
+      "YTop": 515,
+      "Width": 164,
+      "Height": 117,
+      "BoundingPoints": [
+        {
+          "X": 221,
+          "Y": 515
+        },
+        {
+          "X": 382,
+          "Y": 512
+        },
+        {
+          "X": 385,
+          "Y": 632
+        },
+        {
+          "X": 226,
+          "Y": 637
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 406,
+      "YTop": 512,
+      "Width": 218,
+      "Height": 110,
+      "BoundingPoints": [
+        {
+          "X": 406,
+          "Y": 512
+        },
+        {
+          "X": 624,
+          "Y": 511
+        },
+        {
+          "X": 624,
+          "Y": 622
+        },
+        {
+          "X": 409,
+          "Y": 631
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1260,
+      "YTop": 504,
+      "Width": 147,
+      "Height": 91,
+      "BoundingPoints": [
+        {
+          "X": 1260,
+          "Y": 504
+        },
+        {
+          "X": 1409,
+          "Y": 506
+        },
+        {
+          "X": 1407,
+          "Y": 595
+        },
+        {
+          "X": 1259,
+          "Y": 593
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

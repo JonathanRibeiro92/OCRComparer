@@ -1,0 +1,83 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Then",
+      "XLeft": 1070,
+      "YTop": 279,
+      "Width": 100,
+      "Height": 72,
+      "BoundingPoints": [
+        {
+          "X": 1070,
+          "Y": 279
+        },
+        {
+          "X": 1181,
+          "Y": 301
+        },
+        {
+          "X": 1170,
+          "Y": 351
+        },
+        {
+          "X": 1059,
+          "Y": 326
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "EMIO1.",
+      "XLeft": 1224,
+      "YTop": 310,
+      "Width": 201,
+      "Height": 100,
+      "BoundingPoints": [
+        {
+          "X": 1224,
+          "Y": 310
+        },
+        {
+          "X": 1438,
+          "Y": 362
+        },
+        {
+          "X": 1425,
+          "Y": 410
+        },
+        {
+          "X": 1212,
+          "Y": 360
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "45180029",
+      "XLeft": 348,
+      "YTop": 660,
+      "Width": 485,
+      "Height": 171,
+      "BoundingPoints": [
+        {
+          "X": 348,
+          "Y": 660
+        },
+        {
+          "X": 853,
+          "Y": 723
+        },
+        {
+          "X": 833,
+          "Y": 831
+        },
+        {
+          "X": 329,
+          "Y": 788
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

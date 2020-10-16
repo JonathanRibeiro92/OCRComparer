@@ -1,0 +1,83 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "THoo",
+      "XLeft": 67,
+      "YTop": 457,
+      "Width": 338,
+      "Height": 130,
+      "BoundingPoints": [
+        {
+          "X": 67,
+          "Y": 457
+        },
+        {
+          "X": 405,
+          "Y": 472
+        },
+        {
+          "X": 405,
+          "Y": 587
+        },
+        {
+          "X": 70,
+          "Y": 588
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 483,
+      "YTop": 477,
+      "Width": 205,
+      "Height": 104,
+      "BoundingPoints": [
+        {
+          "X": 483,
+          "Y": 477
+        },
+        {
+          "X": 691,
+          "Y": 490
+        },
+        {
+          "X": 688,
+          "Y": 581
+        },
+        {
+          "X": 482,
+          "Y": 586
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1334,
+      "YTop": 477,
+      "Width": 156,
+      "Height": 102,
+      "BoundingPoints": [
+        {
+          "X": 1334,
+          "Y": 477
+        },
+        {
+          "X": 1494,
+          "Y": 483
+        },
+        {
+          "X": 1490,
+          "Y": 579
+        },
+        {
+          "X": 1330,
+          "Y": 573
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

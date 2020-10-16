@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "124",
+      "XLeft": 324,
+      "YTop": 0,
+      "Width": 127,
+      "Height": 144,
+      "BoundingPoints": [
+        {
+          "X": 324,
+          "Y": 0
+        },
+        {
+          "X": 481,
+          "Y": 49
+        },
+        {
+          "X": 451,
+          "Y": 144
+        },
+        {
+          "X": 294,
+          "Y": 93
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1927",
+      "XLeft": 884,
+      "YTop": 211,
+      "Width": 310,
+      "Height": 312,
+      "BoundingPoints": [
+        {
+          "X": 884,
+          "Y": 211
+        },
+        {
+          "X": 1258,
+          "Y": 353
+        },
+        {
+          "X": 1194,
+          "Y": 523
+        },
+        {
+          "X": 819,
+          "Y": 382
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "THoo",
+      "XLeft": 185,
+      "YTop": 140,
+      "Width": 174,
+      "Height": 169,
+      "BoundingPoints": [
+        {
+          "X": 185,
+          "Y": 140
+        },
+        {
+          "X": 393,
+          "Y": 225
+        },
+        {
+          "X": 359,
+          "Y": 309
+        },
+        {
+          "X": 151,
+          "Y": 225
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1082,
+      "YTop": 489,
+      "Width": 107,
+      "Height": 129,
+      "BoundingPoints": [
+        {
+          "X": 1082,
+          "Y": 489
+        },
+        {
+          "X": 1218,
+          "Y": 544
+        },
+        {
+          "X": 1189,
+          "Y": 618
+        },
+        {
+          "X": 1052,
+          "Y": 562
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

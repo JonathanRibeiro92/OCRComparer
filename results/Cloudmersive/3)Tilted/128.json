@@ -1,0 +1,31 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "6303KWh",
+      "XLeft": 511,
+      "YTop": 127,
+      "Width": 722,
+      "Height": 298,
+      "BoundingPoints": [
+        {
+          "X": 511,
+          "Y": 127
+        },
+        {
+          "X": 1250,
+          "Y": 179
+        },
+        {
+          "X": 1233,
+          "Y": 425
+        },
+        {
+          "X": 493,
+          "Y": 374
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "KV",
+      "XLeft": 1347,
+      "YTop": 297,
+      "Width": 119,
+      "Height": 92,
+      "BoundingPoints": [
+        {
+          "X": 1347,
+          "Y": 297
+        },
+        {
+          "X": 1472,
+          "Y": 304
+        },
+        {
+          "X": 1466,
+          "Y": 389
+        },
+        {
+          "X": 1342,
+          "Y": 381
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

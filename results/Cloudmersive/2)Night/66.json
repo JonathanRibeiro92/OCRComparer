@@ -1,0 +1,83 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "265",
+      "XLeft": 46,
+      "YTop": 199,
+      "Width": 270,
+      "Height": 160,
+      "BoundingPoints": [
+        {
+          "X": 46,
+          "Y": 199
+        },
+        {
+          "X": 319,
+          "Y": 202
+        },
+        {
+          "X": 316,
+          "Y": 359
+        },
+        {
+          "X": 44,
+          "Y": 356
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1647-",
+      "XLeft": 758,
+      "YTop": 224,
+      "Width": 578,
+      "Height": 236,
+      "BoundingPoints": [
+        {
+          "X": 758,
+          "Y": 224
+        },
+        {
+          "X": 1341,
+          "Y": 236
+        },
+        {
+          "X": 1336,
+          "Y": 460
+        },
+        {
+          "X": 754,
+          "Y": 448
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "kWh",
+      "XLeft": 1254,
+      "YTop": 485,
+      "Width": 172,
+      "Height": 99,
+      "BoundingPoints": [
+        {
+          "X": 1254,
+          "Y": 485
+        },
+        {
+          "X": 1426,
+          "Y": 485
+        },
+        {
+          "X": 1426,
+          "Y": 584
+        },
+        {
+          "X": 1254,
+          "Y": 584
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

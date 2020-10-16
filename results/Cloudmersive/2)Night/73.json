@@ -1,0 +1,135 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genu",
+      "XLeft": 513,
+      "YTop": 22,
+      "Width": 147,
+      "Height": 59,
+      "BoundingPoints": [
+        {
+          "X": 513,
+          "Y": 22
+        },
+        {
+          "X": 663,
+          "Y": 38
+        },
+        {
+          "X": 660,
+          "Y": 81
+        },
+        {
+          "X": 508,
+          "Y": 66
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Genu",
+      "XLeft": 768,
+      "YTop": 194,
+      "Width": 230,
+      "Height": 86,
+      "BoundingPoints": [
+        {
+          "X": 768,
+          "Y": 194
+        },
+        {
+          "X": 1003,
+          "Y": 215
+        },
+        {
+          "X": 998,
+          "Y": 280
+        },
+        {
+          "X": 761,
+          "Y": 263
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KW",
+      "XLeft": 1153,
+      "YTop": 341,
+      "Width": 134,
+      "Height": 127,
+      "BoundingPoints": [
+        {
+          "X": 1153,
+          "Y": 341
+        },
+        {
+          "X": 1288,
+          "Y": 342
+        },
+        {
+          "X": 1287,
+          "Y": 468
+        },
+        {
+          "X": 1153,
+          "Y": 467
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1330,
+      "YTop": 342,
+      "Width": 33,
+      "Height": 126,
+      "BoundingPoints": [
+        {
+          "X": 1330,
+          "Y": 342
+        },
+        {
+          "X": 1363,
+          "Y": 342
+        },
+        {
+          "X": 1363,
+          "Y": 468
+        },
+        {
+          "X": 1329,
+          "Y": 468
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "BP",
+      "XLeft": 1141,
+      "YTop": 608,
+      "Width": 92,
+      "Height": 72,
+      "BoundingPoints": [
+        {
+          "X": 1141,
+          "Y": 608
+        },
+        {
+          "X": 1231,
+          "Y": 605
+        },
+        {
+          "X": 1233,
+          "Y": 680
+        },
+        {
+          "X": 1143,
+          "Y": 683
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

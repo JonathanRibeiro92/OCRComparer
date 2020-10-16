@@ -1,0 +1,57 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "CUM",
+      "XLeft": 251,
+      "YTop": 58,
+      "Width": 203,
+      "Height": 115,
+      "BoundingPoints": [
+        {
+          "X": 251,
+          "Y": 58
+        },
+        {
+          "X": 455,
+          "Y": 64
+        },
+        {
+          "X": 454,
+          "Y": 173
+        },
+        {
+          "X": 248,
+          "Y": 158
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "ON",
+      "XLeft": 501,
+      "YTop": 64,
+      "Width": 93,
+      "Height": 113,
+      "BoundingPoints": [
+        {
+          "X": 501,
+          "Y": 64
+        },
+        {
+          "X": 592,
+          "Y": 63
+        },
+        {
+          "X": 594,
+          "Y": 177
+        },
+        {
+          "X": 501,
+          "Y": 174
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

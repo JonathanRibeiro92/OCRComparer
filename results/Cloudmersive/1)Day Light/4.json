@@ -1,0 +1,291 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genus",
+      "XLeft": 496,
+      "YTop": 85,
+      "Width": 191,
+      "Height": 73,
+      "BoundingPoints": [
+        {
+          "X": 496,
+          "Y": 85
+        },
+        {
+          "X": 689,
+          "Y": 98
+        },
+        {
+          "X": 687,
+          "Y": 158
+        },
+        {
+          "X": 494,
+          "Y": 147
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Innovation",
+      "XLeft": 701,
+      "YTop": 99,
+      "Width": 299,
+      "Height": 80,
+      "BoundingPoints": [
+        {
+          "X": 701,
+          "Y": 99
+        },
+        {
+          "X": 1001,
+          "Y": 121
+        },
+        {
+          "X": 1000,
+          "Y": 179
+        },
+        {
+          "X": 700,
+          "Y": 159
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Lid,",
+      "XLeft": 1014,
+      "YTop": 122,
+      "Width": 97,
+      "Height": 65,
+      "BoundingPoints": [
+        {
+          "X": 1014,
+          "Y": 122
+        },
+        {
+          "X": 1112,
+          "Y": 129
+        },
+        {
+          "X": 1111,
+          "Y": 187
+        },
+        {
+          "X": 1012,
+          "Y": 179
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Haridwar",
+      "XLeft": 1125,
+      "YTop": 130,
+      "Width": 216,
+      "Height": 74,
+      "BoundingPoints": [
+        {
+          "X": 1125,
+          "Y": 130
+        },
+        {
+          "X": 1342,
+          "Y": 148
+        },
+        {
+          "X": 1341,
+          "Y": 204
+        },
+        {
+          "X": 1123,
+          "Y": 187
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "(india",
+      "XLeft": 1355,
+      "YTop": 149,
+      "Width": 129,
+      "Height": 67,
+      "BoundingPoints": [
+        {
+          "X": 1355,
+          "Y": 149
+        },
+        {
+          "X": 1486,
+          "Y": 161
+        },
+        {
+          "X": 1484,
+          "Y": 216
+        },
+        {
+          "X": 1353,
+          "Y": 205
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Genus",
+      "XLeft": 743,
+      "YTop": 219,
+      "Width": 284,
+      "Height": 126,
+      "BoundingPoints": [
+        {
+          "X": 743,
+          "Y": 219
+        },
+        {
+          "X": 1031,
+          "Y": 228
+        },
+        {
+          "X": 1027,
+          "Y": 345
+        },
+        {
+          "X": 739,
+          "Y": 336
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Meter",
+      "XLeft": 1312,
+      "YTop": 230,
+      "Width": 125,
+      "Height": 55,
+      "BoundingPoints": [
+        {
+          "X": 1312,
+          "Y": 230
+        },
+        {
+          "X": 1439,
+          "Y": 237
+        },
+        {
+          "X": 1437,
+          "Y": 285
+        },
+        {
+          "X": 1309,
+          "Y": 274
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "17KW",
+      "XLeft": 1000,
+      "YTop": 385,
+      "Width": 257,
+      "Height": 121,
+      "BoundingPoints": [
+        {
+          "X": 1000,
+          "Y": 385
+        },
+        {
+          "X": 1257,
+          "Y": 390
+        },
+        {
+          "X": 1257,
+          "Y": 506
+        },
+        {
+          "X": 1002,
+          "Y": 514
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1291,
+      "YTop": 391,
+      "Width": 42,
+      "Height": 113,
+      "BoundingPoints": [
+        {
+          "X": 1291,
+          "Y": 391
+        },
+        {
+          "X": 1333,
+          "Y": 392
+        },
+        {
+          "X": 1333,
+          "Y": 504
+        },
+        {
+          "X": 1291,
+          "Y": 505
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "DA",
+      "XLeft": 0,
+      "YTop": 692,
+      "Width": 98,
+      "Height": 77,
+      "BoundingPoints": [
+        {
+          "X": 0,
+          "Y": 692
+        },
+        {
+          "X": 100,
+          "Y": 694
+        },
+        {
+          "X": 98,
+          "Y": 769
+        },
+        {
+          "X": 0,
+          "Y": 767
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "5/M.43/2013-14R-APDRP/",
+      "XLeft": 813,
+      "YTop": 791,
+      "Width": 597,
+      "Height": 35,
+      "BoundingPoints": [
+        {
+          "X": 813,
+          "Y": 791
+        },
+        {
+          "X": 1411,
+          "Y": 777
+        },
+        {
+          "X": 1410,
+          "Y": 826
+        },
+        {
+          "X": 814,
+          "Y": 839
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

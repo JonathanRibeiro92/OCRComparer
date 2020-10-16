@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "venus",
+      "XLeft": 706,
+      "YTop": 1,
+      "Width": 362,
+      "Height": 141,
+      "BoundingPoints": [
+        {
+          "X": 706,
+          "Y": 1
+        },
+        {
+          "X": 1088,
+          "Y": 45
+        },
+        {
+          "X": 1068,
+          "Y": 142
+        },
+        {
+          "X": 695,
+          "Y": 82
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "leo",
+      "XLeft": 122,
+      "YTop": 340,
+      "Width": 261,
+      "Height": 119,
+      "BoundingPoints": [
+        {
+          "X": 122,
+          "Y": 340
+        },
+        {
+          "X": 396,
+          "Y": 372
+        },
+        {
+          "X": 383,
+          "Y": 459
+        },
+        {
+          "X": 107,
+          "Y": 418
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 432,
+      "YTop": 376,
+      "Width": 185,
+      "Height": 109,
+      "BoundingPoints": [
+        {
+          "X": 432,
+          "Y": 376
+        },
+        {
+          "X": 628,
+          "Y": 396
+        },
+        {
+          "X": 617,
+          "Y": 485
+        },
+        {
+          "X": 419,
+          "Y": 463
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1234,
+      "YTop": 455,
+      "Width": 133,
+      "Height": 117,
+      "BoundingPoints": [
+        {
+          "X": 1234,
+          "Y": 455
+        },
+        {
+          "X": 1381,
+          "Y": 476
+        },
+        {
+          "X": 1367,
+          "Y": 572
+        },
+        {
+          "X": 1220,
+          "Y": 551
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

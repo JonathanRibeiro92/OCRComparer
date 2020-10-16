@@ -1,0 +1,239 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "W3d",
+      "XLeft": 1347,
+      "YTop": 669,
+      "Width": -113,
+      "Height": -44,
+      "BoundingPoints": [
+        {
+          "X": 1347,
+          "Y": 669
+        },
+        {
+          "X": 1235,
+          "Y": 672
+        },
+        {
+          "X": 1234,
+          "Y": 625
+        },
+        {
+          "X": 1345,
+          "Y": 621
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "0019",
+      "XLeft": 549,
+      "YTop": 657,
+      "Width": -155,
+      "Height": -45,
+      "BoundingPoints": [
+        {
+          "X": 549,
+          "Y": 657
+        },
+        {
+          "X": 397,
+          "Y": 661
+        },
+        {
+          "X": 394,
+          "Y": 612
+        },
+        {
+          "X": 549,
+          "Y": 607
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "2089",
+      "XLeft": 952,
+      "YTop": 475,
+      "Width": -506,
+      "Height": -254,
+      "BoundingPoints": [
+        {
+          "X": 952,
+          "Y": 475
+        },
+        {
+          "X": 435,
+          "Y": 451
+        },
+        {
+          "X": 446,
+          "Y": 221
+        },
+        {
+          "X": 962,
+          "Y": 246
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "jew",
+      "XLeft": 1221,
+      "YTop": 142,
+      "Width": -85,
+      "Height": -52,
+      "BoundingPoints": [
+        {
+          "X": 1221,
+          "Y": 142
+        },
+        {
+          "X": 1135,
+          "Y": 138
+        },
+        {
+          "X": 1136,
+          "Y": 90
+        },
+        {
+          "X": 1222,
+          "Y": 95
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "JnoyeM",
+      "XLeft": 1106,
+      "YTop": 137,
+      "Width": -243,
+      "Height": -62,
+      "BoundingPoints": [
+        {
+          "X": 1106,
+          "Y": 137
+        },
+        {
+          "X": 862,
+          "Y": 127
+        },
+        {
+          "X": 863,
+          "Y": 75
+        },
+        {
+          "X": 1107,
+          "Y": 88
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Ones",
+      "XLeft": 823,
+      "YTop": 125,
+      "Width": -162,
+      "Height": -60,
+      "BoundingPoints": [
+        {
+          "X": 823,
+          "Y": 125
+        },
+        {
+          "X": 660,
+          "Y": 118
+        },
+        {
+          "X": 661,
+          "Y": 65
+        },
+        {
+          "X": 824,
+          "Y": 73
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "JIMZ",
+      "XLeft": 599,
+      "YTop": 116,
+      "Width": -151,
+      "Height": -61,
+      "BoundingPoints": [
+        {
+          "X": 599,
+          "Y": 116
+        },
+        {
+          "X": 446,
+          "Y": 109
+        },
+        {
+          "X": 448,
+          "Y": 55
+        },
+        {
+          "X": 600,
+          "Y": 62
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "udL'De",
+      "XLeft": 403,
+      "YTop": 107,
+      "Width": -235,
+      "Height": -63,
+      "BoundingPoints": [
+        {
+          "X": 403,
+          "Y": 107
+        },
+        {
+          "X": 167,
+          "Y": 97
+        },
+        {
+          "X": 168,
+          "Y": 44
+        },
+        {
+          "X": 405,
+          "Y": 53
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "OOC3ON",
+      "XLeft": 1128,
+      "YTop": 70,
+      "Width": -269,
+      "Height": -64,
+      "BoundingPoints": [
+        {
+          "X": 1128,
+          "Y": 70
+        },
+        {
+          "X": 858,
+          "Y": 60
+        },
+        {
+          "X": 859,
+          "Y": 6
+        },
+        {
+          "X": 1128,
+          "Y": 17
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

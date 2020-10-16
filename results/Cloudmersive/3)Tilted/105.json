@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "CUM",
+      "XLeft": 811,
+      "YTop": 193,
+      "Width": 63,
+      "Height": 88,
+      "BoundingPoints": [
+        {
+          "X": 811,
+          "Y": 193
+        },
+        {
+          "X": 897,
+          "Y": 232
+        },
+        {
+          "X": 874,
+          "Y": 281
+        },
+        {
+          "X": 789,
+          "Y": 242
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "ikW/",
+      "XLeft": 1050,
+      "YTop": 444,
+      "Width": 119,
+      "Height": 134,
+      "BoundingPoints": [
+        {
+          "X": 1050,
+          "Y": 444
+        },
+        {
+          "X": 1198,
+          "Y": 501
+        },
+        {
+          "X": 1169,
+          "Y": 578
+        },
+        {
+          "X": 1021,
+          "Y": 521
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1229,
+      "YTop": 513,
+      "Width": 12,
+      "Height": 92,
+      "BoundingPoints": [
+        {
+          "X": 1229,
+          "Y": 513
+        },
+        {
+          "X": 1270,
+          "Y": 528
+        },
+        {
+          "X": 1241,
+          "Y": 605
+        },
+        {
+          "X": 1200,
+          "Y": 589
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "SEQ",
+      "XLeft": 1012,
+      "YTop": 534,
+      "Width": 59,
+      "Height": 84,
+      "BoundingPoints": [
+        {
+          "X": 1012,
+          "Y": 534
+        },
+        {
+          "X": 1092,
+          "Y": 566
+        },
+        {
+          "X": 1071,
+          "Y": 618
+        },
+        {
+          "X": 991,
+          "Y": 586
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

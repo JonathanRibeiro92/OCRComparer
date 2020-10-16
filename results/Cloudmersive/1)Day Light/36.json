@@ -1,0 +1,31 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "10250",
+      "XLeft": 425,
+      "YTop": 400,
+      "Width": 625,
+      "Height": 288,
+      "BoundingPoints": [
+        {
+          "X": 425,
+          "Y": 400
+        },
+        {
+          "X": 1055,
+          "Y": 410
+        },
+        {
+          "X": 1050,
+          "Y": 688
+        },
+        {
+          "X": 420,
+          "Y": 678
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

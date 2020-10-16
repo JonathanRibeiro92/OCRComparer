@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genus",
+      "XLeft": 503,
+      "YTop": 5,
+      "Width": 316,
+      "Height": 199,
+      "BoundingPoints": [
+        {
+          "X": 503,
+          "Y": 5
+        },
+        {
+          "X": 837,
+          "Y": 138
+        },
+        {
+          "X": 819,
+          "Y": 204
+        },
+        {
+          "X": 471,
+          "Y": 88
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "57",
+      "XLeft": 809,
+      "YTop": 255,
+      "Width": 199,
+      "Height": 272,
+      "BoundingPoints": [
+        {
+          "X": 809,
+          "Y": 255
+        },
+        {
+          "X": 1064,
+          "Y": 326
+        },
+        {
+          "X": 1008,
+          "Y": 527
+        },
+        {
+          "X": 753,
+          "Y": 456
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 249,
+      "YTop": 347,
+      "Width": 164,
+      "Height": 150,
+      "BoundingPoints": [
+        {
+          "X": 249,
+          "Y": 347
+        },
+        {
+          "X": 438,
+          "Y": 392
+        },
+        {
+          "X": 413,
+          "Y": 497
+        },
+        {
+          "X": 224,
+          "Y": 451
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1001,
+      "YTop": 553,
+      "Width": 146,
+      "Height": 125,
+      "BoundingPoints": [
+        {
+          "X": 1001,
+          "Y": 553
+        },
+        {
+          "X": 1167,
+          "Y": 592
+        },
+        {
+          "X": 1147,
+          "Y": 678
+        },
+        {
+          "X": 981,
+          "Y": 639
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

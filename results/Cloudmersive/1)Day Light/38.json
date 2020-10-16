@@ -1,0 +1,109 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "genus",
+      "XLeft": 438,
+      "YTop": 0,
+      "Width": 732,
+      "Height": 183,
+      "BoundingPoints": [
+        {
+          "X": 438,
+          "Y": 0
+        },
+        {
+          "X": 1174,
+          "Y": 24
+        },
+        {
+          "X": 1170,
+          "Y": 183
+        },
+        {
+          "X": 436,
+          "Y": 114
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "120-UM",
+      "XLeft": 726,
+      "YTop": 534,
+      "Width": 433,
+      "Height": 110,
+      "BoundingPoints": [
+        {
+          "X": 726,
+          "Y": 534
+        },
+        {
+          "X": 1156,
+          "Y": 528
+        },
+        {
+          "X": 1159,
+          "Y": 644
+        },
+        {
+          "X": 726,
+          "Y": 634
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "<",
+      "XLeft": 1228,
+      "YTop": 526,
+      "Width": 9,
+      "Height": 119,
+      "BoundingPoints": [
+        {
+          "X": 1228,
+          "Y": 526
+        },
+        {
+          "X": 1235,
+          "Y": 526
+        },
+        {
+          "X": 1237,
+          "Y": 645
+        },
+        {
+          "X": 1231,
+          "Y": 645
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "<W\"h",
+      "XLeft": 1254,
+      "YTop": 525,
+      "Width": 219,
+      "Height": 118,
+      "BoundingPoints": [
+        {
+          "X": 1254,
+          "Y": 525
+        },
+        {
+          "X": 1470,
+          "Y": 518
+        },
+        {
+          "X": 1473,
+          "Y": 643
+        },
+        {
+          "X": 1257,
+          "Y": 645
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

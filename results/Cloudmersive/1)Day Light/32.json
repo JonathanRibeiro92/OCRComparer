@@ -1,0 +1,57 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "EM101.",
+      "XLeft": 1218,
+      "YTop": 142,
+      "Width": 215,
+      "Height": 86,
+      "BoundingPoints": [
+        {
+          "X": 1218,
+          "Y": 142
+        },
+        {
+          "X": 1441,
+          "Y": 168
+        },
+        {
+          "X": 1433,
+          "Y": 228
+        },
+        {
+          "X": 1208,
+          "Y": 204
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "84367",
+      "XLeft": 527,
+      "YTop": 721,
+      "Width": 362,
+      "Height": 100,
+      "BoundingPoints": [
+        {
+          "X": 527,
+          "Y": 721
+        },
+        {
+          "X": 890,
+          "Y": 711
+        },
+        {
+          "X": 889,
+          "Y": 821
+        },
+        {
+          "X": 528,
+          "Y": 824
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

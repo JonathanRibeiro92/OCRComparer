@@ -1,0 +1,31 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "EDE",
+      "XLeft": 1046,
+      "YTop": 477,
+      "Width": -330,
+      "Height": -183,
+      "BoundingPoints": [
+        {
+          "X": 1046,
+          "Y": 477
+        },
+        {
+          "X": 719,
+          "Y": 484
+        },
+        {
+          "X": 716,
+          "Y": 294
+        },
+        {
+          "X": 1042,
+          "Y": 287
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Genus",
+      "XLeft": 601,
+      "YTop": 37,
+      "Width": 357,
+      "Height": 103,
+      "BoundingPoints": [
+        {
+          "X": 601,
+          "Y": 37
+        },
+        {
+          "X": 961,
+          "Y": 56
+        },
+        {
+          "X": 958,
+          "Y": 140
+        },
+        {
+          "X": 598,
+          "Y": 117
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KV",
+      "XLeft": 1440,
+      "YTop": 287,
+      "Width": 44,
+      "Height": 47,
+      "BoundingPoints": [
+        {
+          "X": 1440,
+          "Y": 287
+        },
+        {
+          "X": 1486,
+          "Y": 288
+        },
+        {
+          "X": 1484,
+          "Y": 334
+        },
+        {
+          "X": 1438,
+          "Y": 333
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KV",
+      "XLeft": 1434,
+      "YTop": 338,
+      "Width": 53,
+      "Height": 49,
+      "BoundingPoints": [
+        {
+          "X": 1434,
+          "Y": 338
+        },
+        {
+          "X": 1487,
+          "Y": 338
+        },
+        {
+          "X": 1487,
+          "Y": 387
+        },
+        {
+          "X": 1434,
+          "Y": 387
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Tio",
+      "XLeft": 64,
+      "YTop": 390,
+      "Width": 237,
+      "Height": 126,
+      "BoundingPoints": [
+        {
+          "X": 64,
+          "Y": 390
+        },
+        {
+          "X": 303,
+          "Y": 396
+        },
+        {
+          "X": 301,
+          "Y": 516
+        },
+        {
+          "X": 61,
+          "Y": 510
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 446,
+      "YTop": 418,
+      "Width": 174,
+      "Height": 95,
+      "BoundingPoints": [
+        {
+          "X": 446,
+          "Y": 418
+        },
+        {
+          "X": 621,
+          "Y": 419
+        },
+        {
+          "X": 620,
+          "Y": 513
+        },
+        {
+          "X": 445,
+          "Y": 512
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "kWh",
+      "XLeft": 1209,
+      "YTop": 421,
+      "Width": 148,
+      "Height": 90,
+      "BoundingPoints": [
+        {
+          "X": 1209,
+          "Y": 421
+        },
+        {
+          "X": 1358,
+          "Y": 422
+        },
+        {
+          "X": 1357,
+          "Y": 511
+        },
+        {
+          "X": 1208,
+          "Y": 510
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "200",
+      "XLeft": 1254,
+      "YTop": 573,
+      "Width": 62,
+      "Height": 42,
+      "BoundingPoints": [
+        {
+          "X": 1254,
+          "Y": 573
+        },
+        {
+          "X": 1317,
+          "Y": 574
+        },
+        {
+          "X": 1316,
+          "Y": 615
+        },
+        {
+          "X": 1253,
+          "Y": 614
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "TAMPER",
+      "XLeft": 940,
+      "YTop": 628,
+      "Width": 172,
+      "Height": 39,
+      "BoundingPoints": [
+        {
+          "X": 940,
+          "Y": 628
+        },
+        {
+          "X": 1111,
+          "Y": 625
+        },
+        {
+          "X": 1112,
+          "Y": 667
+        },
+        {
+          "X": 941,
+          "Y": 668
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "MM/YY",
+      "XLeft": 762,
+      "YTop": 45,
+      "Width": 196,
+      "Height": 62,
+      "BoundingPoints": [
+        {
+          "X": 762,
+          "Y": 45
+        },
+        {
+          "X": 961,
+          "Y": 53
+        },
+        {
+          "X": 958,
+          "Y": 107
+        },
+        {
+          "X": 759,
+          "Y": 93
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Genus",
+      "XLeft": 511,
+      "YTop": 91,
+      "Width": 372,
+      "Height": 119,
+      "BoundingPoints": [
+        {
+          "X": 511,
+          "Y": 91
+        },
+        {
+          "X": 888,
+          "Y": 121
+        },
+        {
+          "X": 883,
+          "Y": 210
+        },
+        {
+          "X": 504,
+          "Y": 179
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KW",
+      "XLeft": 1428,
+      "YTop": 344,
+      "Width": 57,
+      "Height": 44,
+      "BoundingPoints": [
+        {
+          "X": 1428,
+          "Y": 344
+        },
+        {
+          "X": 1484,
+          "Y": 343
+        },
+        {
+          "X": 1485,
+          "Y": 388
+        },
+        {
+          "X": 1428,
+          "Y": 389
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KV",
+      "XLeft": 1442,
+      "YTop": 402,
+      "Width": 54,
+      "Height": 42,
+      "BoundingPoints": [
+        {
+          "X": 1442,
+          "Y": 402
+        },
+        {
+          "X": 1495,
+          "Y": 400
+        },
+        {
+          "X": 1496,
+          "Y": 444
+        },
+        {
+          "X": 1443,
+          "Y": 446
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "K",
+      "XLeft": 1453,
+      "YTop": 458,
+      "Width": 32,
+      "Height": 43,
+      "BoundingPoints": [
+        {
+          "X": 1453,
+          "Y": 458
+        },
+        {
+          "X": 1483,
+          "Y": 457
+        },
+        {
+          "X": 1485,
+          "Y": 501
+        },
+        {
+          "X": 1455,
+          "Y": 502
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "00",
+      "XLeft": 3,
+      "YTop": 669,
+      "Width": 69,
+      "Height": 50,
+      "BoundingPoints": [
+        {
+          "X": 3,
+          "Y": 669
+        },
+        {
+          "X": 73,
+          "Y": 669
+        },
+        {
+          "X": 72,
+          "Y": 719
+        },
+        {
+          "X": 3,
+          "Y": 719
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1200",
+      "XLeft": 1279,
+      "YTop": 657,
+      "Width": 99,
+      "Height": 44,
+      "BoundingPoints": [
+        {
+          "X": 1279,
+          "Y": 657
+        },
+        {
+          "X": 1376,
+          "Y": 654
+        },
+        {
+          "X": 1378,
+          "Y": 701
+        },
+        {
+          "X": 1281,
+          "Y": 704
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Wh",
+      "XLeft": 25,
+      "YTop": 734,
+      "Width": 97,
+      "Height": 52,
+      "BoundingPoints": [
+        {
+          "X": 25,
+          "Y": 734
+        },
+        {
+          "X": 122,
+          "Y": 734
+        },
+        {
+          "X": 122,
+          "Y": 786
+        },
+        {
+          "X": 25,
+          "Y": 786
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "TAMPER",
+      "XLeft": 942,
+      "YTop": 723,
+      "Width": 205,
+      "Height": 45,
+      "BoundingPoints": [
+        {
+          "X": 942,
+          "Y": 723
+        },
+        {
+          "X": 1146,
+          "Y": 721
+        },
+        {
+          "X": 1147,
+          "Y": 768
+        },
+        {
+          "X": 942,
+          "Y": 771
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "imp/kvarh",
+      "XLeft": 1231,
+      "YTop": 719,
+      "Width": 213,
+      "Height": 38,
+      "BoundingPoints": [
+        {
+          "X": 1231,
+          "Y": 719
+        },
+        {
+          "X": 1442,
+          "Y": 712
+        },
+        {
+          "X": 1444,
+          "Y": 757
+        },
+        {
+          "X": 1232,
+          "Y": 766
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "ac,",
+      "XLeft": 211,
+      "YTop": 76,
+      "Width": 98,
+      "Height": 65,
+      "BoundingPoints": [
+        {
+          "X": 211,
+          "Y": 76
+        },
+        {
+          "X": 306,
+          "Y": 77
+        },
+        {
+          "X": 309,
+          "Y": 141
+        },
+        {
+          "X": 214,
+          "Y": 139
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "1Ph,",
+      "XLeft": 318,
+      "YTop": 77,
+      "Width": 159,
+      "Height": 67,
+      "BoundingPoints": [
+        {
+          "X": 318,
+          "Y": 77
+        },
+        {
+          "X": 475,
+          "Y": 79
+        },
+        {
+          "X": 477,
+          "Y": 144
+        },
+        {
+          "X": 321,
+          "Y": 141
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "2",
+      "XLeft": 488,
+      "YTop": 79,
+      "Width": 35,
+      "Height": 65,
+      "BoundingPoints": [
+        {
+          "X": 488,
+          "Y": 79
+        },
+        {
+          "X": 521,
+          "Y": 79
+        },
+        {
+          "X": 523,
+          "Y": 144
+        },
+        {
+          "X": 490,
+          "Y": 144
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Wire",
+      "XLeft": 533,
+      "YTop": 79,
+      "Width": 158,
+      "Height": 69,
+      "BoundingPoints": [
+        {
+          "X": 533,
+          "Y": 79
+        },
+        {
+          "X": 690,
+          "Y": 82
+        },
+        {
+          "X": 691,
+          "Y": 148
+        },
+        {
+          "X": 535,
+          "Y": 145
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Static",
+      "XLeft": 719,
+      "YTop": 82,
+      "Width": 203,
+      "Height": 71,
+      "BoundingPoints": [
+        {
+          "X": 719,
+          "Y": 82
+        },
+        {
+          "X": 922,
+          "Y": 86
+        },
+        {
+          "X": 922,
+          "Y": 153
+        },
+        {
+          "X": 720,
+          "Y": 149
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Energy",
+      "XLeft": 947,
+      "YTop": 86,
+      "Width": 238,
+      "Height": 75,
+      "BoundingPoints": [
+        {
+          "X": 947,
+          "Y": 86
+        },
+        {
+          "X": 1186,
+          "Y": 92
+        },
+        {
+          "X": 1185,
+          "Y": 161
+        },
+        {
+          "X": 946,
+          "Y": 154
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Meter",
+      "XLeft": 1207,
+      "YTop": 93,
+      "Width": 175,
+      "Height": 74,
+      "BoundingPoints": [
+        {
+          "X": 1207,
+          "Y": 93
+        },
+        {
+          "X": 1385,
+          "Y": 98
+        },
+        {
+          "X": 1382,
+          "Y": 167
+        },
+        {
+          "X": 1205,
+          "Y": 161
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "3779",
+      "XLeft": 2,
+      "YTop": 213,
+      "Width": 86,
+      "Height": 38,
+      "BoundingPoints": [
+        {
+          "X": 2,
+          "Y": 213
+        },
+        {
+          "X": 88,
+          "Y": 213
+        },
+        {
+          "X": 88,
+          "Y": 251
+        },
+        {
+          "X": 2,
+          "Y": 251
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KW",
+      "XLeft": 1171,
+      "YTop": 315,
+      "Width": 70,
+      "Height": 57,
+      "BoundingPoints": [
+        {
+          "X": 1171,
+          "Y": 315
+        },
+        {
+          "X": 1242,
+          "Y": 316
+        },
+        {
+          "X": 1241,
+          "Y": 372
+        },
+        {
+          "X": 1170,
+          "Y": 371
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1283,
+      "YTop": 317,
+      "Width": 29,
+      "Height": 56,
+      "BoundingPoints": [
+        {
+          "X": 1283,
+          "Y": 317
+        },
+        {
+          "X": 1313,
+          "Y": 317
+        },
+        {
+          "X": 1312,
+          "Y": 373
+        },
+        {
+          "X": 1282,
+          "Y": 373
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "536692",
+      "XLeft": 7,
+      "YTop": 398,
+      "Width": 130,
+      "Height": 40,
+      "BoundingPoints": [
+        {
+          "X": 7,
+          "Y": 398
+        },
+        {
+          "X": 137,
+          "Y": 400
+        },
+        {
+          "X": 137,
+          "Y": 438
+        },
+        {
+          "X": 8,
+          "Y": 438
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "107666.",
+      "XLeft": 348,
+      "YTop": 251,
+      "Width": 773,
+      "Height": 233,
+      "BoundingPoints": [
+        {
+          "X": 348,
+          "Y": 251
+        },
+        {
+          "X": 1131,
+          "Y": 278
+        },
+        {
+          "X": 1121,
+          "Y": 484
+        },
+        {
+          "X": 350,
+          "Y": 485
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "6400",
+      "XLeft": 623,
+      "YTop": 627,
+      "Width": 146,
+      "Height": 52,
+      "BoundingPoints": [
+        {
+          "X": 623,
+          "Y": 627
+        },
+        {
+          "X": 770,
+          "Y": 629
+        },
+        {
+          "X": 769,
+          "Y": 679
+        },
+        {
+          "X": 624,
+          "Y": 679
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Imp/kWh",
+      "XLeft": 575,
+      "YTop": 695,
+      "Width": 235,
+      "Height": 39,
+      "BoundingPoints": [
+        {
+          "X": 575,
+          "Y": 695
+        },
+        {
+          "X": 811,
+          "Y": 687
+        },
+        {
+          "X": 810,
+          "Y": 734
+        },
+        {
+          "X": 576,
+          "Y": 736
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

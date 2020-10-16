@@ -1,0 +1,57 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "EMT",
+      "XLeft": 1157,
+      "YTop": 142,
+      "Width": 125,
+      "Height": 59,
+      "BoundingPoints": [
+        {
+          "X": 1157,
+          "Y": 142
+        },
+        {
+          "X": 1285,
+          "Y": 149
+        },
+        {
+          "X": 1282,
+          "Y": 201
+        },
+        {
+          "X": 1154,
+          "Y": 194
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "45184369",
+      "XLeft": 319,
+      "YTop": 632,
+      "Width": 546,
+      "Height": 129,
+      "BoundingPoints": [
+        {
+          "X": 319,
+          "Y": 632
+        },
+        {
+          "X": 867,
+          "Y": 634
+        },
+        {
+          "X": 865,
+          "Y": 761
+        },
+        {
+          "X": 321,
+          "Y": 755
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

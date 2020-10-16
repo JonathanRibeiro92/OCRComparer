@@ -1,0 +1,265 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "Static",
+      "XLeft": 956,
+      "YTop": 11,
+      "Width": 154,
+      "Height": 139,
+      "BoundingPoints": [
+        {
+          "X": 956,
+          "Y": 11
+        },
+        {
+          "X": 1137,
+          "Y": 85
+        },
+        {
+          "X": 1110,
+          "Y": 150
+        },
+        {
+          "X": 929,
+          "Y": 70
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Energy",
+      "XLeft": 1153,
+      "YTop": 92,
+      "Width": 193,
+      "Height": 159,
+      "BoundingPoints": [
+        {
+          "X": 1153,
+          "Y": 92
+        },
+        {
+          "X": 1373,
+          "Y": 184
+        },
+        {
+          "X": 1346,
+          "Y": 251
+        },
+        {
+          "X": 1126,
+          "Y": 157
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Me",
+      "XLeft": 1384,
+      "YTop": 189,
+      "Width": 68,
+      "Height": 106,
+      "BoundingPoints": [
+        {
+          "X": 1384,
+          "Y": 189
+        },
+        {
+          "X": 1478,
+          "Y": 229
+        },
+        {
+          "X": 1452,
+          "Y": 295
+        },
+        {
+          "X": 1358,
+          "Y": 256
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "RY",
+      "XLeft": 517,
+      "YTop": 171,
+      "Width": 77,
+      "Height": 123,
+      "BoundingPoints": [
+        {
+          "X": 517,
+          "Y": 171
+        },
+        {
+          "X": 625,
+          "Y": 212
+        },
+        {
+          "X": 594,
+          "Y": 294
+        },
+        {
+          "X": 486,
+          "Y": 253
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "CUM",
+      "XLeft": 746,
+      "YTop": 261,
+      "Width": 84,
+      "Height": 114,
+      "BoundingPoints": [
+        {
+          "X": 746,
+          "Y": 261
+        },
+        {
+          "X": 856,
+          "Y": 300
+        },
+        {
+          "X": 830,
+          "Y": 375
+        },
+        {
+          "X": 719,
+          "Y": 336
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KW",
+      "XLeft": 992,
+      "YTop": 569,
+      "Width": 79,
+      "Height": 112,
+      "BoundingPoints": [
+        {
+          "X": 992,
+          "Y": 569
+        },
+        {
+          "X": 1096,
+          "Y": 603
+        },
+        {
+          "X": 1071,
+          "Y": 681
+        },
+        {
+          "X": 967,
+          "Y": 647
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "h",
+      "XLeft": 1174,
+      "YTop": 628,
+      "Width": 11,
+      "Height": 90,
+      "BoundingPoints": [
+        {
+          "X": 1174,
+          "Y": 628
+        },
+        {
+          "X": 1210,
+          "Y": 640
+        },
+        {
+          "X": 1185,
+          "Y": 718
+        },
+        {
+          "X": 1149,
+          "Y": 706
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "PROPERTY",
+      "XLeft": 315,
+      "YTop": 463,
+      "Width": 313,
+      "Height": 164,
+      "BoundingPoints": [
+        {
+          "X": 315,
+          "Y": 463
+        },
+        {
+          "X": 647,
+          "Y": 577
+        },
+        {
+          "X": 628,
+          "Y": 627
+        },
+        {
+          "X": 296,
+          "Y": 515
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "OF",
+      "XLeft": 664,
+      "YTop": 583,
+      "Width": 59,
+      "Height": 77,
+      "BoundingPoints": [
+        {
+          "X": 664,
+          "Y": 583
+        },
+        {
+          "X": 742,
+          "Y": 610
+        },
+        {
+          "X": 723,
+          "Y": 660
+        },
+        {
+          "X": 645,
+          "Y": 633
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "TANGEDCO",
+      "XLeft": 765,
+      "YTop": 619,
+      "Width": 277,
+      "Height": 154,
+      "BoundingPoints": [
+        {
+          "X": 765,
+          "Y": 619
+        },
+        {
+          "X": 1062,
+          "Y": 726
+        },
+        {
+          "X": 1042,
+          "Y": 773
+        },
+        {
+          "X": 746,
+          "Y": 668
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "4",
+      "XLeft": 535,
+      "YTop": 0,
+      "Width": 19,
+      "Height": 43,
+      "BoundingPoints": [
+        {
+          "X": 535,
+          "Y": 0
+        },
+        {
+          "X": 557,
+          "Y": 1
+        },
+        {
+          "X": 554,
+          "Y": 43
+        },
+        {
+          "X": 532,
+          "Y": 40
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Wire",
+      "XLeft": 602,
+      "YTop": 2,
+      "Width": 144,
+      "Height": 66,
+      "BoundingPoints": [
+        {
+          "X": 602,
+          "Y": 2
+        },
+        {
+          "X": 750,
+          "Y": 11
+        },
+        {
+          "X": 746,
+          "Y": 68
+        },
+        {
+          "X": 598,
+          "Y": 48
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Static",
+      "XLeft": 797,
+      "YTop": 15,
+      "Width": 187,
+      "Height": 86,
+      "BoundingPoints": [
+        {
+          "X": 797,
+          "Y": 15
+        },
+        {
+          "X": 989,
+          "Y": 34
+        },
+        {
+          "X": 984,
+          "Y": 101
+        },
+        {
+          "X": 793,
+          "Y": 75
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Energy",
+      "XLeft": 1033,
+      "YTop": 39,
+      "Width": 250,
+      "Height": 103,
+      "BoundingPoints": [
+        {
+          "X": 1033,
+          "Y": 39
+        },
+        {
+          "X": 1288,
+          "Y": 76
+        },
+        {
+          "X": 1283,
+          "Y": 142
+        },
+        {
+          "X": 1028,
+          "Y": 107
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "Mete",
+      "XLeft": 1330,
+      "YTop": 82,
+      "Width": 149,
+      "Height": 88,
+      "BoundingPoints": [
+        {
+          "X": 1330,
+          "Y": 82
+        },
+        {
+          "X": 1485,
+          "Y": 110
+        },
+        {
+          "X": 1479,
+          "Y": 170
+        },
+        {
+          "X": 1324,
+          "Y": 148
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "KWh",
+      "XLeft": 1226,
+      "YTop": 319,
+      "Width": 178,
+      "Height": 111,
+      "BoundingPoints": [
+        {
+          "X": 1226,
+          "Y": 319
+        },
+        {
+          "X": 1418,
+          "Y": 352
+        },
+        {
+          "X": 1404,
+          "Y": 430
+        },
+        {
+          "X": 1212,
+          "Y": 397
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}

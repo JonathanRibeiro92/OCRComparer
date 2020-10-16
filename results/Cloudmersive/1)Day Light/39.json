@@ -1,0 +1,161 @@
+{
+  "Successful": true,
+  "TextElements": [
+    {
+      "Text": "WINE",
+      "XLeft": 174,
+      "YTop": 97,
+      "Width": 191,
+      "Height": 64,
+      "BoundingPoints": [
+        {
+          "X": 174,
+          "Y": 97
+        },
+        {
+          "X": 366,
+          "Y": 109
+        },
+        {
+          "X": 365,
+          "Y": 161
+        },
+        {
+          "X": 171,
+          "Y": 148
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "AC",
+      "XLeft": 403,
+      "YTop": 111,
+      "Width": 91,
+      "Height": 59,
+      "BoundingPoints": [
+        {
+          "X": 403,
+          "Y": 111
+        },
+        {
+          "X": 495,
+          "Y": 114
+        },
+        {
+          "X": 494,
+          "Y": 170
+        },
+        {
+          "X": 402,
+          "Y": 163
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "ATIC",
+      "XLeft": 621,
+      "YTop": 120,
+      "Width": 148,
+      "Height": 75,
+      "BoundingPoints": [
+        {
+          "X": 621,
+          "Y": 120
+        },
+        {
+          "X": 773,
+          "Y": 138
+        },
+        {
+          "X": 769,
+          "Y": 195
+        },
+        {
+          "X": 618,
+          "Y": 186
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "WATTODD",
+      "XLeft": 794,
+      "YTop": 140,
+      "Width": 349,
+      "Height": 81,
+      "BoundingPoints": [
+        {
+          "X": 794,
+          "Y": 140
+        },
+        {
+          "X": 1146,
+          "Y": 168
+        },
+        {
+          "X": 1143,
+          "Y": 221
+        },
+        {
+          "X": 791,
+          "Y": 196
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "WEIER",
+      "XLeft": 1159,
+      "YTop": 169,
+      "Width": 197,
+      "Height": 69,
+      "BoundingPoints": [
+        {
+          "X": 1159,
+          "Y": 169
+        },
+        {
+          "X": 1359,
+          "Y": 178
+        },
+        {
+          "X": 1356,
+          "Y": 238
+        },
+        {
+          "X": 1156,
+          "Y": 222
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    },
+    {
+      "Text": "EM",
+      "XLeft": 1394,
+      "YTop": 179,
+      "Width": 84,
+      "Height": 69,
+      "BoundingPoints": [
+        {
+          "X": 1394,
+          "Y": 179
+        },
+        {
+          "X": 1481,
+          "Y": 181
+        },
+        {
+          "X": 1478,
+          "Y": 248
+        },
+        {
+          "X": 1391,
+          "Y": 241
+        }
+      ],
+      "ConfidenceLevel": 0.0
+    }
+  ]
+}
