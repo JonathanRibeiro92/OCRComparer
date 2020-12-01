@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCRComparer", "OCRComparer\OCRComparer.csproj", "{F5046C54-4852-4C71-8B10-502513F9D03E}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OCRWatson", "OCRWatson\OCRWatson.pyproj", "{C917D318-4F2B-4F4B-B0F7-A3E2FBF1B186}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{F5046C54-4852-4C71-8B10-502513F9D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5046C54-4852-4C71-8B10-502513F9D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5046C54-4852-4C71-8B10-502513F9D03E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C917D318-4F2B-4F4B-B0F7-A3E2FBF1B186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C917D318-4F2B-4F4B-B0F7-A3E2FBF1B186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
