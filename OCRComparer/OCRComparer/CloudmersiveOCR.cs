@@ -1,6 +1,5 @@
 ﻿using System;
 using Cloudmersive.APIClient.NETCore.OCR.Api;
-using Cloudmersive.APIClient.NETCore.OCR.Model;
 using Cloudmersive.APIClient.NETCore.OCR.Client;
 using System.Threading.Tasks;
 using System.IO;
@@ -17,7 +16,6 @@ namespace OCRComparer
 			var apiInstance = new ImageOcrApi();
 			var imageFile = new FileStream(imageFilePath, FileMode.Open);
 
-
 			try
             {
 				var result = await apiInstance.ImageOcrPhotoWordsWithLocationAsync(imageFile);
@@ -26,7 +24,7 @@ namespace OCRComparer
             catch (Exception exception)
             {
                 Console.WriteLine("\n" + exception.Message);
-				return "erro";
+				return "error";
 			}
 		}
 	}

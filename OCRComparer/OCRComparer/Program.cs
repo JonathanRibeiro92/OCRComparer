@@ -30,7 +30,7 @@ namespace OCRComparer
                    
                     string jsonAmazon = AwsOCR.MakeOCRRequest(file).Result;
                     string jsonAzure = AzureOCR.MakeOCRRequest(file).Result;
-                    string jsonGoogle = GoogleOCR.DetectText(file).Result;
+                    string jsonGoogle = GoogleOCR.MakeOCRRequest(file).Result;
                     string jsonOCRSpace = OCRSpaceOCR.MakeOCRRequest(file).Result;
                     string jsonCloudmersive = CloudmersiveOCR.MakeOCRRequest(file).Result;
                     

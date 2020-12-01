@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 using Amazon.Rekognition;
 using Amazon.Rekognition.Model;
-using Newtonsoft.Json.Linq;
 
 namespace OCRComparer
 {
@@ -14,11 +9,7 @@ namespace OCRComparer
     {
         static string stringAccessKeyId = Environment.GetEnvironmentVariable("STRING_ACCESS_KEY_ID");
         static string stringSecretAccessKey = Environment.GetEnvironmentVariable("STRING_SECRET_ACCESS_KEY");
-
-
         static AmazonRekognitionClient client = new AmazonRekognitionClient(stringAccessKeyId, stringSecretAccessKey);
-
-
 
         public static async Task<string> MakeOCRRequest(string imageFilePath)
         {
@@ -34,22 +25,8 @@ namespace OCRComparer
                 };
 
                 DetectTextResponse detectTextResponse = await client.DetectTextAsync(detectTextRequest);
-
                 string json = System.Text.Json.JsonSerializer.Serialize(detectTextResponse.TextDetections);
-
                 return json;
-
-                //Console.WriteLine("Detected lines and words for " + imageFilePath);
-                //foreach (TextDetection text in detectTextResponse.TextDetections)
-                //{
-                //    Console.WriteLine("Detected: " + text.DetectedText);
-                //    Console.WriteLine("Confidence: " + text.Confidence);
-                //    Console.WriteLine("Id : " + text.Id);
-                //    Console.WriteLine("Parent Id: " + text.ParentId);
-                //    Console.WriteLine("Type: " + text.Type);
-                //}
-
-
             }
             catch (Exception)
             {

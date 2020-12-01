@@ -9,7 +9,6 @@
     <PackageReference Include="Abbyy.CloudSdk.V2.Client" Version="1.0.6" />
     <PackageReference Include="AWSSDK.Rekognition" Version="3.5.0.23" />
     <PackageReference Include="Cloudmersive.APIClient.NETCore.OCR" Version="2.0.2" />
-    <PackageReference Include="Cloudmersive.APIClient.NETCore.Validate" Version="2.0.2" />
     <PackageReference Include="Google.Cloud.Vision.V1" Version="2.0.0" />
     <PackageReference Include="IBM.Watson.VisualRecognition.v3" Version="4.6.0" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="6.0.0-preview.1" />
