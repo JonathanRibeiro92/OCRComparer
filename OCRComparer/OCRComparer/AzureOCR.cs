@@ -25,7 +25,7 @@ namespace OCRComparer
 
                 HttpResponseMessage response;
 
-                byte[] byteData = Util.GetImageAsByteArray(imageFilePath);
+                byte[] byteData = ImageRequest.GetImageAsByteArray(imageFilePath);
 
                 using (ByteArrayContent content = new ByteArrayContent(byteData))
                 {

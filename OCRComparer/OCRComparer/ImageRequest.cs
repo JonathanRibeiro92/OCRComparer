@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OCRComparer
 {
-    public static class Util
+    public static class ImageRequest
     {
         public static byte[] GetImageAsByteArray(string imageFilePath)
         {

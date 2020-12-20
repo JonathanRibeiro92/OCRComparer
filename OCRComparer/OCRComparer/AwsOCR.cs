@@ -16,7 +16,7 @@ namespace OCRComparer
             try
             {
                 Image image = new Image();
-                image.Bytes = Util.GetImageAsMemoryStream(imageFilePath);
+                image.Bytes = ImageRequest.GetImageAsMemoryStream(imageFilePath);
 
                 DetectTextRequest detectTextRequest = new DetectTextRequest()
                 {
